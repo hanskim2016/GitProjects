@@ -1,0 +1,150 @@
+*{
+	font-family: "Arial";
+	margin: 0px;
+	padding: 0px;
+  /*background-color: black;*/
+}
+
+#container{
+	width: 1000px;
+	margin: 0px auto;
+	background-color: #eee;
+}
+
+header{
+	height: 80px;
+	background-color: #eee;
+	overflow: hidden;
+}
+
+header h2{
+  display: inline-block;
+  margin-left: 200px;
+}
+
+
+#nav_bar{
+	width: 1000px;
+	height: 70px;
+	background-color: #eee;
+	padding-top: 5px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	overflow: hidden;
+}
+
+	#nav_bar a{
+		color: black;
+		font-size: 16px;
+		text-decoration: none;
+	}
+
+
+		#nav_bar ul{
+			margin-left: 10px;
+		}
+
+
+		#nav_bar li{
+			display: inline;
+			top: 5px;
+			right: 100px;
+		}
+
+		#nav_bar ul li:after{
+			content: "|";
+			padding: 5px;
+			color: black;
+		}
+
+		#nav_bar ul li:before{
+
+			padding: 5px;
+			color: black;
+		}
+
+#main_body{
+  background-color: darkgrey;
+  vertical-align: top;
+	height: auto;
+  display: inline-block;
+	width: 980px;
+	padding: 10px;
+}
+
+	#main_body img{
+		border: 5px solid white;
+		/*margin: 20px;*/
+		display: inline;
+		vertical-align: top;
+	}
+
+  #right_main_body{
+    background-color: #eee;
+    display: inline-block;
+    width: 500px;
+		border: 1px solid black;
+		height: auto;
+		vertical-align: top;
+		margin-left: 60px;
+
+	  }
+		#right_main_body h3{
+			background-color: yellow;
+			border: 1px solid black;
+		}
+
+#middle_belt{
+	height: 30px;
+	width: 1000px;
+	background-color: darkgrey;
+	margin: 1px 0px 0px 0px;
+}
+
+	#middle_belt img{
+		width: 90px;
+		height: 20px;
+	}
+
+	#middle_belt p{
+		color: yellow;
+		font-size: 14px;
+		display: inline;
+	}
+
+#bottom_learn_more{
+	height: auto;
+	width; 980px;
+	background-color: darkgrey;
+}
+
+.learn_more{
+	width: 220px;
+	height: 250px;
+	background-color: darkgrey;
+	border: 2px solid grey;
+	display: inline-block;
+	margin: 20px 10px 20px 10px;
+	vertical-align: top;
+
+}
+
+	.learn_more img{
+		vertical-align: top;
+	}
+
+	.learn_more h4{
+		background-color: yellow;
+		font-size: 14px;
+	}
+
+	.learn_more p{
+		font-size: 12px;
+		margin: 5px;
+	}
+
+	.learn_more input{
+		margin: 10px 0px 0px 0px;
+		vertical-align:baseline;
+		margin-left: 120px;
+	}
