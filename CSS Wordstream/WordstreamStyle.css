@@ -1,0 +1,154 @@
+*{
+	font-family: "Arial";
+	margin: 0px;
+	padding: 0px;
+}
+
+#container{
+	width: 1000px;
+	margin: 0px auto;
+}
+
+header{
+  width: 1000px;
+  height: 100px;
+  display: inline-block;
+}
+
+  header h1{
+    display: inline;
+  }
+
+header #header_right{
+      background-color: #eee;
+      display: inline-block;
+      vertical-align: top;
+      margin-left: 250px;
+      width: 480px;
+      border: 1px solid darkgrey;
+
+}
+
+#header_right ul{
+  vertical-align: top;
+}
+
+#header_right li{
+  display: inline;
+  text-decoration: none;
+  color: black;
+}
+
+#header_right ul li:after{
+  content: "|";
+  padding: 5px;
+  color: darkgrey;
+}
+
+#header_right ul li:last-child:after{
+  content: none;
+}
+
+#mid_header{
+  background-color: #0986B0;
+  height: 60px;
+  width: 1000px;
+}
+
+  #mid_header h2{
+    color: white;
+    line-height: 70px;
+    margin-left: 20px;
+  }
+
+#left_nav{
+  width: 250px;
+  height: 400px;
+  vertical-align: top;
+  display: inline-block;
+
+}
+
+#left_nav h3, h4, p{
+  display: inline-block;
+  margin: 10px 0px 10px 0px;
+}
+
+#left_nav h3{
+  color: #0986B0;
+  margin-top: 20px;
+}
+
+#left_nav h4{
+  color: red;
+}
+
+  #left_nav input[type=submit]{
+    background-color: lightgreen;
+    display: block;
+  }
+
+
+#main_body{
+  width: 740px;
+  height: auto;
+  display: inline-block;
+  margin-top: 30px;
+}
+
+#main_body_header{
+  vertical-align:top;
+  width: 725px;
+  height: 90px;
+  padding: 10px;
+  display: inline-block;
+  border-bottom: 2px solid grey;
+}
+
+  #main_body_header h4{
+    display: inline-block;
+    color: #0986B0;
+  }
+
+  #phone_logo{
+    position: absolute;
+    top: 210px;
+    left: 850px;
+  }
+
+#phone_number{
+  display: inline-block;
+  width: 300px;
+  height: 90px;
+  vertical-align: top;
+  position: absolute;
+  top: 180px;
+  left: 870px;
+
+}
+  #phone_number h2{
+      color: #19AEE0;
+  }
+
+#main_body_text{
+  vertical-align: top;
+  width: 745px;
+  height: auto;
+  margin-top: 20px
+}
+
+#main_body_banner {
+  display: inline-block;
+  border: 5px solid #0986B0;
+  margin: 30px 0px 30px 0px;
+}
+
+#main_body_text_bottom{
+  display: inline-block;
+}
+
+#main_body_text_bottom h4{
+  color: #0986B0;
+  margin: 20px 0px 0px 0px;
+
+}
