@@ -1,0 +1,22 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+#container{
+ width: 1000px;
+ height: 1000px;
+ background-color: yellow;
+}
+
+.grid{
+  width: 259px;
+  height: 194px;
+  display: inline-block;
+  margin: 5px;
+  background-color: blue;
+}
+
+button{
+  display: block;
+}

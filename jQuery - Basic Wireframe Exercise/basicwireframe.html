@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="jQuery Basic Wireframe Functions Exercise" content="jQuery Basic Wireframe Functions Exercise" />
+	<title>jQuery Functions Exercise</title>
+	<link rel="stylesheet" href="basicwireframestyle.css" />
+	<script type="text/javascript" src= 'http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+	<script type = "text/javascript">
+		$(document).ready(function(){
+			$('#button_box_1').click(function(){
+				$('#p_box_1').css("background-color", "yellow");
+			})
+			$('#focus_here_input').focus(function(){
+				$('#p_box_2').css("background-color", "green");
+			})
+			$('#button_box_3').click(function(){
+				$('#h1_box_3').addClass("red");
+			})
+			$('#button_box_4').click(function(){
+				var background_div_color = $('div').val("background-color");
+				$('#h4_box_4').css(background_div_color);
+			})
+			$( "#extract_text_input").keyup(function() {
+			    var value = $(this).val();
+			    $("#h4_box_5").text(value);
+			  })
+
+
+
+    // your jQuery codes will go here
+		});
+	</script>
+</head>
+<body>
+	<div id="container">
+		<div class = "function_box">
+			<h1>.click</h1>
+			<p id = "p_box_1">Click the button to make the background color yellow</p>
+			<p>Box 1</p>
+			<button type="button" id="button_box_1">Click Here</button>
+		</div>
+		<div class = "function_box">
+			<h1>.focus</h1>
+			<p id="p_box_2">Focus on the text field makes paragraph background green</p>
+			<p>Box 2</p>
+			<form>
+				<input type="text" value="Focus Here" id="focus_here_input">
+			</form>
+		</div>
+		<div class = "function_box">
+			<h1 id="h1_box_3">.addClass</h1>
+			<p>Click the button to add class 'red' to the above h1 tag</p>
+			<p>Box 3</p>
+			<button type="button" id="button_box_3">Click Here to add class red</button>
+		</div>
+		<div class = "function_box">
+			<h1>.text</h1>
+			<p id="p_box_4">Strip the HTML from an element and return just the text in the h4 below</p>
+			<p>Box 4</p>
+			<button type="button" id="button_box_4">Click Here</button>
+			<h4 id="h4_box_4"></h4>
+		</div>
+		<div class = "function_box">
+			<h1>.val</h1>
+			<p>Click the button and get the text found in the input field below, and stick it in an h4!</p>
+			<p>Box 5</p>
+			<form>
+				<input type="text" value="Extract this text" id="extract_text_input">
+			</form>
+			<h4 id="h4_box_5"></h4>
+		</div>
+
+
+
+	</div>
+
+
+
+</body>

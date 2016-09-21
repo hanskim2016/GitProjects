@@ -1,0 +1,20 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+#wrapper{
+ width: 1000px;
+ margin: 0px auto;
+}
+
+.function_box{
+  width: 1000px;
+  height: auto;
+  background-color: lightblue;
+  border: 2px solid white;
+}
+
+.red{
+  background-color: red;
+}
