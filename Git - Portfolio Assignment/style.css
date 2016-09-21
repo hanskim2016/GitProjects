@@ -1,0 +1,26 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+#container{
+ width: 800px;
+ height: auto;
+ display: inline-block;
+}
+
+#right_header{
+  width: 500px;
+  height: 100px;
+  display: inline-block;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+  #right_header ul{
+    list-style-type: none;
+  }
+
+  #right_header h1, p, ul{
+    margin: 10px;
+  }
