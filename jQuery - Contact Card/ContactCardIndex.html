@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="Add User" content="jQuery Add User Assignment"/>
+	<title>Contact Card</title>
+	<link rel="stylesheet" href="ContactCardStyle.css" />
+	<script type="text/javascript" src= 'http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+	<script type = "text/javascript">
+		$(document).ready(function(){
+			console.log("jQuery loaded successfully");
+			$('form').submit(function(event){
+				var divStart = "<div class='contact_card'>";
+				var h1Line   = "<h1>" + $("#first_name").val()+ " " + $("#last_name").val() + "</h1>";
+				var description = "<h2>"+ $("#description").val() + "</h2>";
+				var pLine    = "<p><em>Click for Description</em></p>";
+				var divEnd   = "</div>";
+
+				$("#right_side").append(divStart+h1Line+description+pLine+divEnd);
+				$(".contact_card").find("h2").hide();
+
+
+
+				return false;
+
+
+			});
+
+			$(document).on("click", ".contact_card", function(){
+				$(this).find("h1").hide();
+				$(this).find("p").hide();
+				$(this).find("h2").show();
+
+
+			});
+
+
+
+		});
+	</script>
+</head>
+<body>
+	<div id="container">
+		<div id="left_side">
+			<form action='process.php' method='post'>
+				First Name:<input class="text_input" id="first_name" type="text"/>
+				Last Name:<input class="text_input" id="last_name" type="text"/>
+				Description:<input class="text_input" id="description" type="text"/>
+				<input type="submit" value="Add User" />
+			</form>
+		</div> <!--end of left_side div-->
+		<div id="right_side">
+			<p>Right side for contact cards here</p>
+			<!-- <div class="contact_card">
+				<p>Description of contact here</p>
+			</div> -->
+		</div>
+	</div><!--end of container div-->
+</body>

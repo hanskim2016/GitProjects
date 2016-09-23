@@ -1,0 +1,51 @@
+*{
+  font: arial;
+}
+
+#container{
+  width: 1000px;
+  height: 1000px;
+  background-color: lightblue;
+  display: inline-block;
+
+}
+
+#left_side{
+  width: 300px;
+  height: 200px;
+  background-color: lightgreen;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+
+}
+
+#right_side{
+  width: 650px;
+  height: 900px;
+  background-color: lightyellow;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+}
+
+
+input{
+  display: block;
+  margin: 5px;
+}
+
+
+.contact_card{
+  width: 500px;
+  height: 200px;
+  background-color: orange;
+  margin: 5px;
+  border: 2px solid black;
+  font-size: 25px;
+}
+
+.first_name_value{
+  background-color: purple;
+  font-size:10px;
+}
