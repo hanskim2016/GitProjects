@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="Accordion and Tab" content="jQuery Accordion and Tab Exercise" />
+	<title>Accordion and Tab</title>
+	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/themes/base/jquery-ui.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"></script>
+	<script type = "text/javascript">
+		$(document).ready(function(){
+
+			$( "#accordion" ).accordion();
+			$( "#tabs" ).tabs();
+			$(document).tooltip();
+
+		});
+	</script>
+	<style type="text/css">
+		#container{
+			width: 1000px;
+			height: auto;
+
+		}
+
+		#accordion{
+			width: 500px;
+			height: auto;
+
+		}
+
+		#tabs{
+			width: 500px;
+			height: auto;
+
+		}
+	</style>
+</head>
+<body>
+	<div id="container">
+		<p><a href="#" title="That&apos;s what this widget is">Tooltips</a> can be attached to any element. When you hover
+		the element with your mouse, the title attribute is displayed in a little box next to the element, just like a native tooltip.</p>
+		<p>But as it's not a native tooltip, it can be styled. Any themes built with
+		<a href="http://jqueryui.com/themeroller/" title="ThemeRoller: jQuery UI&apos;s theme builder application">ThemeRoller</a>
+		will also style tooltips accordingly.</p>
+		<p>Tooltips are also useful for form elements, to show some additional information in the context of each field.</p>
+		<p><label for="age">Your age:</label><input id="age" title="We ask for your age only for statistical purposes."></p>
+		<p>Hover the field to see the tooltip.</p>
+		<div id="accordion">
+		  <h3>About Us</h3>
+		  <div>
+		    <p>
+					We are a company based in <a href="#" title="It rains a lot there!">Seattle, WA</a> with over ten years of collective experience in web technologies.
+		    </p>
+		  </div>
+		  <h3>Products</h3>
+		  <div>
+		    <p>
+		    We are the foremost seller of widgets on the internet, and a #1 ranked Amazon third party seller.
+				In addition to widgets, we also have widgets 2.0 and widgets 3.0 as well in stock, ready for purchase.
+				Purchase online or chat with a live agent on our website today to order!
+		    </p>
+		  </div>
+		  <h3>Pricing</h3>
+		  <div>
+		    <p>
+		    We have the most competitive pricing on the internet today. For pricing, please see below:
+		    </p>
+		    <ul>
+		      <li>Widget 1.0 is $10</li>
+		      <li>Widget 2.0 is $20</li>
+		      <li>Widget 3.0 is $30</li>
+		    </ul>
+		  </div>
+		  <h3>Careers</h3>
+		  <div>
+		    <p>
+		    Interested in joining the Widgets team? Please email jobs@widgets.com for more information.
+		    </p>
+		    <p>
+		    We over the most comprehensive benefits package and competitive industry compensation.
+		    </p>
+		  </div>
+		</div>
+			<div id="tabs">
+			  <ul>
+			    <li><a href="#tabs-1">About Us</a></li>
+			    <li><a href="#tabs-2">Company</a></li>
+			    <li><a href="#tabs-3" href="#" title="Please come work with us">Careers</a></li>
+			  </ul>
+			  <div id="tabs-1">
+					<p>Our team is composed of the best in the industry. We are located in Seattle, WA </p>
+				</div>
+			  <div id="tabs-2">
+					<p>Our company is based in Seattle, WA and is the #1 reseller of widgets on Amazon.com
+			  </div>
+			  <div id="tabs-3">
+					<p>Come join the widgets production team and email our recruiters directly at jobs@widgets.com</p>
+			  </div>
+			</div>
+		</div>
+</body>
