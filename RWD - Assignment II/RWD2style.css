@@ -1,0 +1,51 @@
+#container {
+	background-color: #ddd;
+	border: 1px solid #999;
+	padding: 1em;
+	margin: 1em;
+	width: 90%;
+	display: inline-block;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	display: inline;
+	padding: 1.5em;
+}
+
+a{
+	color: blue;
+}
+
+header{
+	border: 1px solid white;
+	background: lightblue;
+}
+
+#nav_bar{
+	width: 100%;
+	height: auto;
+	background-color: lightgreen;
+	display: block;
+	border: 1px solid black;
+}
+
+.text_column{
+	background-color: lightyellow;
+	width: 20%;
+	height: auto;
+	overflow: hidden;
+	display: inline-block;
+	float: none;
+	text-align: left;
+	padding: 0px 10px 0px 10px;
+	/*margin-right: -4px;*/
+}
+
+#lower_text_main_body{
+	background-color: white;
+
+}
