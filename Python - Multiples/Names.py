@@ -5,8 +5,9 @@ students = [
      {'first_name' : 'KB', 'last_name' : 'Tonel'}
 ]
 
-i = 0
 
-while i < 4:
-    print students[i]['first_name'], students[i]['last_name']
-    i += 1
+x = 0
+
+for x in students:
+    print students[x]['first_name'], students[x]['last_name']
+    x += 1
