@@ -64,7 +64,7 @@
         //var path = [];
 
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 8,
+          // zoom: 8,
           center: path[0],
           mapTypeId: 'roadmap'
         });
@@ -79,7 +79,8 @@
 
         var WSDOTLayer = new google.maps.KmlLayer({
           url: 'http://www.wsdot.wa.gov/traffic/api/MountainPassConditions/kml.aspx',
-          map: map
+          map: map,
+          zoom: 20
         });
 
 
