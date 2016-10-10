@@ -13,23 +13,17 @@ print "Initial set", x
 
 i = 0
 j = 0
-y = len(x) -1
 
-
-for j in range (0, y):
-    while j < y:
-        for i in range (0, y):
-            if x[i]> x[i+1]:
-                temp = x[i+1]
-                x[i+1]=x[i]
-                x[i] = temp
-                i+=1
-                print x
-            else:
-                i+=1
+while j < len(x)-1:
+    for i in range (0, len(x)-1):
+        if x[i]> x[i+1]:
+            x[i], x[i+1] = x[i+1], x[i]
+            i+=1
+        else:
+            i+=1
     j += 1
 
+print "Sorted set", x
 
 t2 = datetime.time(1,2,3,4)
-
 print "End time is", t2
