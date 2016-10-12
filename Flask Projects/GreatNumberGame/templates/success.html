@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" rel="stylesheet">
+    <link rel="stylesheet" href="static/css/style.css">
+    <title>Great Numbers Game! Guess What's My Number</title>
+    <style>
+    *{
+      background-color: lightblue;
+      height: auto;
+      width: 90%;
+    }
+
+    h1{
+      border: solid 1px white;
+    }
+    h2{
+      border: solid 1px white;
+    }
+    h3{
+      background-color: green;
+    }
+
+
+  </style>
+  </head>
+  <body>
+    <h1>Welcome to the Great Number Game!</h1>
+    <h2>I am thinking of a number between 1 and 100 (inclusive). Take a guess!</h2>
+    <h3>Success! You guessed the right number! Click "Get a New Number" and play again!</h3>
+    Your previous number was: <p>{{ session['userNumber'] }}</p>
+    My secret number is: <p>{{ session['number'] }}</p>
+
+
+    <form action="/process" method="post">
+      <div class="four columns">
+        <input class="u-full-width" type="text" placeholder="Pick a number" name="userNumber" id="userNumber">
+      </div>
+      <div class="four columns">
+        <input class="button-primary" type="submit" value="Submit">
+      </div>
+    </form>
+    <form action="/clear" method="post">
+      <div class="four columns">
+        <input class="button-primary" type="submit" value="Get a New Number" name="clear">
+      </div>
+    </form>
+
+
+  </body>
