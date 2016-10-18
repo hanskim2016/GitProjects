@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+
+    </style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <style>
+
+    .panel {
+      width: 18%
+      display: inline;
+    }
+
+
+    </style>
+
+    <title>Ninja Gold</title>
+  </head>
+
+
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Ninja Gold 1.0</a>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Below elements are jumbotron, alerts -->
+    <div class="container theme-showcase" role="main">
+      <div class="jumbotron">
+      </div>
+      <div id="alerts">
+        {% if session.earn > 0 %}
+          <div class="alert alert-success" role="alert">
+            <strong>Well done!</strong> You successfully earned {{session.earn}} gold pieces.
+          </div>
+        {% endif %}
+        {% if session.earn < 0 %}
+        <div class="alert alert-danger" role="alert">
+          <strong>Uh oh!</strong> Looks like you lost {{session.earn * -1}} gold pieces. Try again.
+        </div>
+        {% endif %}
+      </div>
+    </div>
+
+<!-- Below items are gold earning options, activity monitoring well section, and the reset game button -->
+    <div class='container' id="mainbody">
+      <div id="gold_counter">
+        <h4>Gold: <span class="badge">{{session.gold}}</span></h4>
+      </div>
+      <div id="goldOptions">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Farm</h3>
+          </div>
+          <div class="panel-body">
+            <p>(earns 10-20 gold)</p>
+            <form action="/process" method="post">
+              <input type="hidden" name="place" value="farm" />
+              <input type="submit" class="btn btn-primary" value="Find Gold!"></button>
+            </form>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">Cave</h3>
+          </div>
+          <div class="panel-body">
+            <p>(earns 5-10 gold)</p>
+            <form action="/process" method="post">
+              <input type="hidden" name="place" value="cave" />
+              <input type="submit" class="btn btn-primary" value="Find Gold!"></button>
+            </form>
+          </div>
+        </div>
+        <div class="panel panel-info">
+          <div class="panel-heading">
+            <h3 class="panel-title">House</h3>
+          </div>
+          <div class="panel-body">
+            <p>(earns 2-5 gold)</p>
+            <form action="/process" method="post">
+              <input type="hidden" name="place" value="house" />
+              <input type="submit" class="btn btn-primary" value="Find Gold!"></button>
+            </form>
+          </div>
+        </div>
+        <div class="panel panel-danger">
+          <div class="panel-heading">
+            <h3 class="panel-title">Casino</h3>
+          </div>
+          <div class="panel-body">
+            <p>(earns or loses up to 50 gold)</p>
+            <form action="/process" method="post">
+              <input type="hidden" name="place" value="casino" />
+              <input type="submit" class="btn btn-primary" value="Find Gold!"></button>
+            </form>
+          </div>
+        </div>
+        <div class="well">
+          <p>Your activity:</p>
+          {% for activity in session.activities %}
+            <p>{{ activity }}</p>
+          {% endfor %}
+        </div>
+        <form action="/reset" method="post">
+          <input type="submit" class="btn btn-lg btn-warning" value="Reset the game">
+        </form>
+      </div><!--End div id gold options-->
+    </div> <!--End div container-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    </body>
