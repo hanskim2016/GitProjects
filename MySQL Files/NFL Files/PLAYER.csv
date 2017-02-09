@@ -1,0 +1,501 @@
+player,fname,lname,pname,pos1,pos2,height,weight,yob,forty,bench,vertical,broad,shuttle,cone,arm,hand,dpos,col,dv,start,cteam,posd,jnum,dcp
+AA-0025,Ameer,Abdullah,A.Abdullah,RB,,69,205,1993,4.5,24,42.5,130,3.95,6.79,30,8.625,54,Nebraska,Big Ten,2015,DET,RES,21,3
+AA-0050,Aaron,Adams,A.Adams,OL,,77,305,1989,5.26,22,28.5,101,4.61,7.61,0,0,0,Eastern Kentucky,Ohio Valley,2013,INA,INA,0,0
+AA-0075,Andrew,Adams,A.Adams,DB,,71,203,1992,4.54,24,33,118,4.32,6.96,0,0,0,Connecticut,American Athletic,2016,NYG,PS,33,1
+AA-0100,Anthony,Adams,A.Adams,DL,,72,300,1980,5.13,0,30.5,109,4.59,7.68,0,0,57,Penn State,Big Ten,2003,INA,INA,0,0
+AA-0200,Al,Afalava,A.Afalava,DB,,71,212,1987,4.48,25,40,125,4.07,6.6,0,0,190,Oregon State,Pacific 10,2009,INA,INA,0,0
+AA-0300,Anthony,Alabi,A.Alabi,OL,,77,315,1981,5.12,18,32.5,105,4.6,7.64,0,0,162,Texas Christian,Mountain West (MWC),2006,INA,INA,0,0
+AA-0400,Alex,Albright,A.Albright,LB,,77,260,1988,4.86,22,36,124,4.03,6.98,0,0,0,Boston College,Atlantic Coast (ACC),2011,INA,INA,0,0
+AA-0500,Allen,Aldridge,A.Aldridge,LB,,73,254,1972,0,0,0,0,0,0,0,0,51,Houston,Southwest,1994,INA,INA,0,0
+AA-0525,Alvester,Alexander,A.Alexander,RB,,70,206,1990,4.45,18,36,128,4.21,6.89,0,0,0,Wyoming,Mountain West (MWC),2012,INA,INA,0,0
+AA-0543,Adrian,Amos,A.Amos,DB,,72,218,1993,4.39,21,35.5,122,4.03,7.09,32.25,9.111,142,Penn State,Big Ten,2015,CHI,FS,38,1
+AA-0562,Arik,Armstead,A.Armstead,DL,,79,292,1993,5.06,24,34,117,4.53,7.57,33,10.5,17,Oregon,Pacific 12,2015,SF,LDT,91,1
+AA-0600,Abdul-Karim,al-Jabbar,A.al-Jabbar,RB,,70,194,1974,0,0,0,0,0,0,0,0,80,UCLA,Pacific 10,1996,INA,INA,0,0
+AA-0700,Andy,Alleman,A.Alleman,OL,,76,310,1983,5.07,30,30,106,4.38,7.43,0,0,88,Akron,Mid-American (MAC),2008,INA,INA,0,0
+AA-0800,Anthony,Allen,A.Allen,RB,,73,223,1988,4.56,24,41.5,120,4.06,6.79,30.375,9.625,225,Georgia Tech,Atlantic Coast (ACC),2011,INA,INA,0,0
+AA-0850,Antonio,Allen,A.Allen,LB,DB,74,202,1988,4.58,17,34,118,4.25,7.02,0,0,0,South Carolina,Southeastern (SEC),2012,NYJ,FS,39,2
+AA-0900,Armando,Allen,A.Allen,RB,,68,190,1989,4.6,23,31.5,120,4.12,7.1,0,0,0,Notre Dame,FBS Independents,2011,INA,INA,0,0
+AA-1000,Asher,Allen,A.Allen,DB,,70,190,1988,4.48,22,35,115,4.3,6.93,0,0,86,Georgia,Southeastern (SEC),2009,INA,INA,0,0
+AA-1100,Aundrae,Allison,A.Allison,WR,,72,198,1986,4.39,0,37,127,4.25,6.81,0,0,146,East Carolina,Conference USA (C-USA),2007,INA,INA,0,0
+AA-1200,Ashley,Ambrose,A.Ambrose,DB,,71,190,1970,0,0,0,0,0,0,0,0,29,Mississippi Valley State,Southwestern Athletic (SWAC),1992,INA,INA,0,0
+AA-1300,Andre',Anderson,A.Anderson,RB,,71,205,1988,4.58,17,39,123,4.12,6.92,0,0,0,Tulane,Conference USA (C-USA),2010,INA,INA,0,0
+AA-1350,Antonio,Andrews,A.Andrews,RB,,70,225,1992,4.72,20,30,108,4.35,7.17,31.25,9.5,0,Western Kentucky,Sun Belt,2014,TEN,RB,26,3
+AA-1400,Antwan,Applewhite,A.Applewhite,DL,LB,75,246,1985,4.73,25,35,115,4.36,7.5,0,0,0,San Diego State,Mountain West (MWC),2008,INA,INA,0,0
+AA-1500,Adam,Archuleta,A.Archuleta,DB,LB,72,223,1977,4.46,31,0,0,0,0,0,0,20,Arizona State,Pacific 10,2001,INA,INA,0,0
+AA-1550,Armond,Armstead,A.Armstead,DL,,76,290,1990,5.08,0,0,0,0,0,0,0,0,USC,Pacific 12,2012,INA,INA,0,0
+AA-1600,Anthony,Armstrong,A.Armstrong,WR,,71,183,1983,4.38,0,0,0,0,0,0,0,0,West Texas A&M,,2010,INA,INA,0,0
+AA-1700,Adrian,Arrington,A.Arrington,WR,,75,192,1985,4.55,36,0,0,0,0,0,0,0,Michigan,Big Ten,2010,INA,INA,0,0
+AA-1800,Adrian,Awasom,A.Awasom,DL,,77,275,1983,4.93,23,33,107,4.4,7.57,0,0,0,North Texas,Sun Belt,2005,INA,INA,0,0
+AA-1900,Akeem,Ayers,A.Ayers,LB,,74,254,1989,4.81,22,34.5,116,4.28,7.19,0,0,39,UCLA,Pacific 10,2011,IND,OLB,56,3
+AA-2000,Akin,Ayodele,A.Ayodele,LB,,74,251,1979,4.81,26,35,121,4.12,7,0,0,89,Purdue,Big Ten,2002,INA,INA,0,0
+AB-0100,Allen,Bailey,A.Bailey,DL,,75,288,1989,4.71,27,36.5,117,4.56,7.43,34,10.25,86,Miami (FL),Atlantic Coast (ACC),2011,KC,RDE,97,1
+AB-0120,Alvin,Bailey,A.Bailey,OL,,75,320,1991,4.9,27,0,0,4.69,7.5,0,0,0,Arkansas,Southeastern (SEC),2013,CLE,RG,78,2
+AB-0160,Alex,Balducci,A.Balducci,OL,DL,76,301,1994,5.01,25,33,113,4.63,7.55,0,0,0,Oregon,Pacific 12,2016,SF,PS,56,3
+AB-0200,Alan,Ball,A.Ball,DB,,74,195,1985,4.52,11,36,124,4.18,6.75,0,0,237,Illinois,Big Ten,2007,INA,INA,0,0
+AB-0300,Antonio,Banks,A.Banks,DB,,70,203,1973,0,0,0,0,0,0,0,0,113,Virginia Tech,Big East,1998,INA,INA,0,0
+AB-0400,Alex,Bannister,A.Bannister,WR,,77,207,1979,4.47,0,30.5,110,0,0,0,0,140,Eastern Kentucky,Ohio Valley,2001,INA,INA,0,0
+AB-0500,Allen,Barbre,A.Barbre,OL,,76,305,1984,4.84,28,32,105,4.63,7.4,0,0,119,Missouri Southern,,2007,PHI,LG,76,1
+AB-0550,Adairius,Barnes,A.Barnes,DB,,71,187,1994,4.55,14,41.5,126,4.08,6.82,0,0,0,Louisiana Tech,Conference USA (C-USA),2016,DET,LCB,38,3
+AB-0600,Antwan,Barnes,A.Barnes,LB,,73,251,1984,4.43,31,35,122,4.32,7.29,0,0,134,Florida International,Sun Belt,2007,INA,INA,0,0
+AB-0650,Anthony,Barr,A.Barr,LB,,77,255,1992,4.56,19,34.5,125,4.19,6.82,33.5,9.375,9,UCLA,Pacific 12,2014,MIN,SLB,55,1
+AB-0700,Alex,Barron,A.Barron,OL,,79,320,1982,5.27,21,38,112,4.57,7.83,0,0,19,Florida State,Atlantic Coast (ACC),2005,INA,INA,0,0
+AB-0800,Arnaz,Battle,A.Battle,WR,,73,217,1980,4.58,0,35,117,4.06,6.74,0,0,197,Notre Dame,FBS Independents,2003,INA,INA,0,0
+AB-0900,Ainsley,Battles,A.Battles,DB,,71,204,1978,0,0,0,0,0,0,0,0,0,Vanderbilt,Southeastern (SEC),2000,INA,INA,0,0
+AB-0950,Alan,Baxter,A.Baxter,LB,,72,238,1991,4.77,22,30,111,4.84,7.23,0,0,0,Northern Illinois,Mid-American (MAC),2013,INA,INA,0,0
+AB-0975,Alex,Bayer,A.Bayer,TE,,76,258,1990,4.78,20,31.5,111,4.42,7.26,32.625,9.75,0,Bowling Green,Mid-American (MAC),2014,INA,INA,0,0
+AB-1000,Aaron,Beasley,A.Beasley,DB,,72,205,1973,0,0,0,0,0,0,0,0,63,West Virginia,Big East,1996,INA,INA,0,0
+AB-1100,Anthony,Becht,A.Becht,TE,,77,272,1977,4.78,0,33.5,123,4.08,6.94,0,0,27,West Virginia,Big East,2000,INA,INA,0,0
+AB-1150,Adrian,Bellard,A.Bellard,OL,,77,307,1994,5.49,15,26,93,5.03,8.08,0,0,0,Texas State,Sun Belt,2016,INA,INA,0,0
+AB-1200,Arrelious,Benn,A.Benn,WR,,73,220,1988,4.57,20,27.5,121,4.32,6.78,32.25,9.375,39,Illinois,Big Ten,2010,JAC,LWR,17,3
+AB-1300,Adam,Bergen,A.Bergen,TE,,76,263,1983,4.78,25,38,121,4.11,7.12,0,0,0,Lehigh,,2005,INA,INA,0,0
+AB-1400,Aaron,Berry,A.Berry,DB,,71,180,1988,4.48,11,36,123,3.99,6.61,0,0,0,Pittsburgh,Big East,2010,INA,INA,0,0
+AB-1500,Antoine,Bethea,A.Bethea,DB,,71,203,1984,4.39,19,36.5,127,4.13,6.99,0,0,207,Howard,Mid-Eastern Athletic (MEAC),2006,SF,SS,41,1
+AB-1600,Atari,Bigby,A.Bigby,DB,,71,211,1981,4.65,19,35,112,4.11,7,0,0,0,Central Florida,Mid-American (MAC),2005,INA,INA,0,0
+AB-1650,Andrew,Billings,A.Billings,DL,,73,311,1995,5,31,27.5,113,4.78,7.74,33,10,122,Baylor,Big 12,2016,CIN,RES,75,1
+AB-1700,Armon,Binns,A.Binns,WR,,75,209,1989,4.5,13,33.5,121,4.31,6.86,32.5,9.5,0,Cincinnati,Big East,2011,INA,INA,0,0
+AB-1800,Ahmad,Black,A.Black,DB,,69,190,1989,4.7,18,36.5,119,4.12,6.77,0,0,151,Florida,Southeastern (SEC),2011,INA,INA,0,0
+AB-1900,Avion,Black,A.Black,WR,,71,185,1977,4.42,0,0,0,0,0,0,0,121,Tennessee State,Ohio Valley,2000,INA,INA,0,0
+AB-1925,Angelo,Blackson,A.Blackson,DL,,76,318,1992,4.97,21,31,101,4.57,7.5,33.75,9.75,100,Auburn,Southeastern (SEC),2015,TEN,LDE,95,2
+AB-1950,Antwon,Blake,A.Blake,DB,,69,198,1990,4.32,21,39,121,4.09,7.04,0,0,0,Texas-El Paso,Conference USA (C-USA),2012,TEN,RCB,47,2
+AB-1962,Akil,Blount,A.Blount,LB,,74,239,1994,4.61,30,40,113,4.24,7.15,0,0,0,Florida A&M,Mid-Eastern Athletic (MEAC),2016,INA,INA,0,0
+AB-1975,Alfred,Blue,A.Blue,RB,,74,223,1991,4.58,13,32,121,4.5,7.15,32.375,9.875,181,LSU,Southeastern (SEC),2014,HOU,RB,28,2
+AB-1987,Austin,Blythe,A.Blythe,OL,,74,298,1992,5.34,29,31.5,99,4.46,7.52,30.25,9.375,248,Iowa,Big Ten,2016,IND,C,63,3
+AB-2000,Anquan,Boldin,A.Boldin,WR,,73,220,1980,4.72,0,33.5,114,4.33,7.35,30,9.875,54,Florida State,Atlantic Coast (ACC),2003,DET,SWR,80,1
+AB-2025,Al,Bond,A.Bond,OL,,76,303,1992,5.45,22,24,91,4.65,7.9,0,0,0,Memphis,American Athletic,2015,INA,INA,0,0
+AB-2050,Alan,Bonner,A.Bonner,WR,,70,193,1990,4.5,14,33,117,4.09,7.04,30.25,9.375,195,Jacksonville State,Ohio Valley,2013,INA,INA,0,0
+AB-2075,Andrew,Bonnet,A.Bonnet,RB,,75,250,1992,4.92,22,0,0,0,0,0,0,0,North Dakota State,Missouri Valley,2016,PHI,PS,45,1
+AB-2100,Alex,Boone,A.Boone,OL,,80,300,1987,5.16,33,27.5,103,4.69,7.83,0,0,0,Ohio State,Big Ten,2009,MIN,LG,76,1
+AB-2200,Alfonso,Boone,A.Boone,DL,,76,318,1976,0,0,0,0,0,0,0,0,253,Central State,,2001,INA,INA,0,0
+AB-2225,Andrew,Bose,A.Bose,LB,,74,232,1993,4.71,25,35,122,4.37,7.2,0,0,0,Rhode Island,Colonial Athletic (CAA),2015,INA,INA,0,0
+AB-2250,A.J.,Bouye,A.Bouye,DB,LB,72,186,1991,4.57,18,36.5,125,4.04,7.06,0,0,0,Central Florida,Conference USA (C-USA),2013,HOU,RCB,21,2
+AB-2300,Alvin,Bowen,A.Bowen,LB,,73,220,1983,4.79,15,34,119,4.3,7.1,0,0,147,Iowa State,Big 12,2010,INA,INA,0,0
+AB-2400,Andy,Bowers,A.Bowers,DL,,77,283,1976,4.83,0,0,0,0,0,0,0,0,Utah,Mountain West (MWC),2001,INA,INA,0,0
+AB-2500,Allen,Bradford,A.Bradford,RB,LB,71,235,1988,4.53,28,29,113,4.39,6.97,0,0,187,USC,Pacific 10,2011,INA,INA,0,0
+AB-2600,Ahmad,Bradshaw,A.Bradshaw,RB,,69,214,1986,4.55,0,34,112,4.09,6.7,0,0,250,Marshall,Conference USA (C-USA),2007,INA,INA,0,0
+AB-2700,Alan,Branch,A.Branch,DL,,78,325,1984,5.07,33,27.5,107,4.79,7.56,0,0,33,Michigan,Big Ten,2007,NE,DT,97,1
+AB-2730,Andre,Branch,A.Branch,DL,,76,259,1989,4.67,19,32.5,120,4.25,7.19,0,0,38,Clemson,Atlantic Coast (ACC),2012,MIA,LDE,50,2
+AB-2760,Aaron,Brewer,A.Brewer,OL,,74,225,1990,4.96,10,27.5,102,4.48,7.27,0,0,0,San Diego State,Mountain West (MWC),2012,INA,INA,0,0
+AB-2800,Anthony,Bright,A.Bright,WR,,73,170,1977,0,0,0,0,0,0,0,0,0,Valencia,,2002,INA,INA,0,0
+AB-2900,Aaron,Brooks,A.Brooks,QB,,76,220,1976,4.6,0,35.5,120,4.29,7.52,0,0,131,Virginia,Atlantic Coast (ACC),2000,INA,INA,0,0
+AB-3000,Ahmad,Brooks,A.Brooks,DB,,68,180,1980,0,0,0,0,0,0,0,0,0,Texas,Big 12,2002,INA,INA,0,0
+AB-3100,Ahmad,Brooks,A.Brooks,LB,,75,259,1984,4.64,0,0,0,0,0,0,0,0,Virginia,Atlantic Coast (ACC),2006,SF,LOLB,55,1
+AB-3200,Aaron,Brown,A.Brown,RB,,72,196,1985,4.49,16,40,129,4.26,7.22,0,0,192,Texas Christian,Mountain West (MWC),2009,INA,INA,0,0
+AB-3300,Alex,Brown,A.Brown,DL,,75,262,1979,4.74,0,0,0,0,0,0,0,104,Florida,Southeastern (SEC),2002,INA,INA,0,0
+AB-3400,Andre,Brown,A.Brown,RB,,72,227,1986,4.37,24,37,115,4.28,7.08,32,9.5,0,North Carolina State,Atlantic Coast (ACC),2010,INA,INA,0,0
+AB-3450,Anthony,Brown,A.Brown,DB,,71,192,1993,4.32,19,35,115,4.19,7.03,31.75,8.25,189,Purdue,Big Ten,2016,DAL,NB,30,2
+AB-3500,Antonio,Brown,A.Brown,WR,,70,186,1988,4.56,13,33.5,105,4.18,6.98,31,9,0,Central Michigan,Mid-American (MAC),2010,PIT,LWR,84,1
+AB-3550,Antonio,Brown,A.Brown,WR,,70,175,1978,0,0,0,0,0,0,0,0,0,West Virginia,Big East,2003,INA,INA,0,0
+AB-3570,Arthur,Brown,A.Brown,LB,,72,241,1990,4.67,21,32.5,116,4.31,7.07,32.5,10,56,Kansas State,Big 12,2013,JAC,OLB,59,2
+AB-3585,Austin,Brown,A.Brown,DL,,74,280,1991,4.97,32,32,108,4.49,7.35,0,0,0,Miami (OH),Mid-American (MAC),2014,INA,INA,0,0
+AB-3600,Arland,Bruce,A.Bruce,WR,,70,193,1977,0,0,0,0,0,0,0,0,0,Minnesota,Big Ten,2003,INA,INA,0,0
+AB-3700,Anthony,Bryant,A.Bryant,DL,,75,336,1981,5.06,23,31.5,106,4.72,7.8,0,0,178,Alabama,Southeastern (SEC),2005,INA,INA,0,0
+AB-3800,Antonio,Bryant,A.Bryant,WR,,73,192,1981,4.57,0,37,121,0,0,0,0,63,Pittsburgh,Big East,2002,INA,INA,0,0
+AB-3850,Armonty,Bryant,A.Bryant,DL,LB,76,263,1990,4.69,15,34.5,121,4.43,7.14,0,0,217,East Central Oklahoma,,2013,CLE,RES,95,1
+AB-3862,Aaron,Burbridge,A.Burbridge,WR,,72,206,1993,4.46,20,30.5,115,4.31,7.22,31.625,8.25,213,Michigan State,Big Ten,2016,SF,LWR,13,2
+AB-3875,Artie,Burns,A.Burns,DB,,72,193,1995,4.42,7,33,124,4.33,6.96,33.25,9.5,25,Miami (FL),Atlantic Coast (ACC),2016,PIT,RCB,25,2
+AB-3900,Antwon,Burton,A.Burton,DL,,75,315,1983,5.39,31,31.5,113,0,0,0,0,0,Temple,FBS Independents,2006,INA,INA,0,0
+AC-0100,Andre,Caldwell,A.Caldwell,WR,RB,72,200,1985,4.35,18,36.5,124,4.11,6.75,32.25,9,97,Florida,Southeastern (SEC),2008,INA,INA,0,0
+AC-0200,Antoine,Caldwell,A.Caldwell,OL,,75,305,1986,5.24,23,28,111,5.04,7.96,0,0,77,Alabama,Southeastern (SEC),2009,INA,INA,0,0
+AC-0250,A.J.,Cann,A.Cann,OL,,75,313,1991,5.47,30,32.5,109,0,0,0,0,67,South Carolina,Southeastern (SEC),2015,JAC,RG,60,1
+AC-0300,Anthony,Cannon,A.Cannon,LB,,70,226,1984,4.75,0,0,0,0,0,0,0,247,Tulane,Conference USA (C-USA),2006,INA,INA,0,0
+AC-0350,Avius,Capers,A.Capers,WR,,69,200,1992,0,0,0,0,0,0,0,0,0,Johnson C. Smith,,2015,INA,INA,0,0
+AC-0375,Amir,Carlisle,A.Carlisle,WR,,70,191,1992,4.5,17,35,0,4.24,7.39,0,0,0,Notre Dame,FBS Independents,2016,INA,INA,0,0
+AC-0400,Adam,Carriker,A.Carriker,DL,,78,296,1984,4.9,33,33.5,110,4.18,7.06,0,0,13,Nebraska,Big 12,2007,INA,INA,0,0
+AC-0500,Alex,Carrington,A.Carrington,DL,LB,77,285,1987,4.92,26,33,122,4.81,7.64,0,0,72,Arkansas State,Sun Belt,2010,INA,INA,0,0
+AC-0600,Ahmad,Carroll,A.Carroll,DB,,71,190,1983,4.34,15,41,128,0,0,0,0,25,Arkansas,Southeastern (SEC),2004,INA,INA,0,0
+AC-0650,Alex,Carter,A.Carter,DB,,72,196,1994,4.5,17,40,121,4.07,7.05,0,0,80,Stanford,Pacific 12,2015,DET,PS,33,2
+AC-0700,Andre,Carter,A.Carter,DL,LB,76,265,1979,4.84,20,38.5,132,4.24,0,0,0,7,California,Pacific 10,2001,INA,INA,0,0
+AC-0900,Antoine,Cash,A.Cash,LB,,73,223,1982,0,0,0,0,0,0,0,0,0,Southern Mississippi,Conference USA (C-USA),2005,INA,INA,0,0
+AC-1000,Antoine,Cason,A.Cason,DB,,72,195,1986,4.45,20,35.5,128,4.08,7.07,0,0,27,Arizona,Pacific 10,2008,INA,INA,0,0
+AC-1100,Aveion,Cason,A.Cason,RB,WR,70,204,1979,4.43,0,0,0,0,0,0,0,0,Illinois State,Missouri Valley,2001,INA,INA,0,0
+AC-1200,Anthony,Castonzo,A.Castonzo,OL,,79,305,1988,5.21,28,29.5,105,4.4,7.25,0,0,22,Boston College,Atlantic Coast (ACC),2011,IND,LT,74,1
+AC-1300,Antonio,Chatman,A.Chatman,WR,,69,177,1979,0,0,0,0,0,0,0,0,0,Cincinnati,Conference USA (C-USA),2003,INA,INA,0,0
+AC-1350,Anthony,Chickillo,A.Chickillo,DL,LB,75,267,1992,4.79,27,34.5,114,4.25,7.17,0,0,212,Miami (FL),Atlantic Coast (ACC),2015,PIT,LOLB,56,2
+AC-1375,Alex,Chisum,A.Chisum,WR,,75,194,1993,4.61,19,34.5,122,4.26,7.09,0,0,0,Cincinnati,American Athletic,2016,INA,INA,0,0
+AC-1400,Adrien,Clarke,A.Clarke,OL,,77,330,1981,5.52,0,26,102,4.79,7.93,0,0,227,Ohio State,Big Ten,2005,INA,INA,0,0
+AC-1500,Adrian,Clayborn,A.Clayborn,DL,,75,281,1988,4.78,17,33,114,4.13,7.08,0,0,20,Iowa,Big Ten,2011,ATL,LDE,99,2
+AC-1600,Anthony,Clement,A.Clement,OL,,80,333,1976,0,0,0,0,0,0,0,0,36,Louisiana-Lafayette,FBS Independents,1998,INA,INA,0,0
+AC-1650,Asante,Cleveland,A.Cleveland,TE,,77,258,1992,4.89,20,32.5,116,4.45,7.33,34.75,10.25,0,Miami (FL),Atlantic Coast (ACC),2014,SD,PS,45,4
+AC-1700,Avon,Cobourne,A.Cobourne,RB,,68,205,1979,4.7,21,31.5,112,4.18,7.21,0,0,0,West Virginia,Big East,2003,INA,INA,0,0
+AC-1800,Antonio,Cochran,A.Cochran,DL,,76,299,1976,5.12,19,33,112,4.55,7.87,0,0,115,Georgia,Southeastern (SEC),1999,INA,INA,0,0
+AC-1850,Audie,Cole,A.Cole,LB,,76,239,1989,4.76,15,35,114,4.29,6.96,0,0,210,North Carolina State,Atlantic Coast (ACC),2012,MIN,MLB,57,2
+AC-1900,Andre,Coleman,A.Coleman,DL,,75,287,1985,5.08,0,0,0,0,0,0,0,0,Albany,,2009,INA,INA,0,0
+AC-2000,Antonio,Coleman,A.Coleman,LB,,74,255,1986,4.87,18,33.5,116,4.46,7.01,0,0,0,Auburn,Southeastern (SEC),2010,INA,INA,0,0
+AC-2100,Austin,Collie,A.Collie,WR,RB,72,200,1985,4.56,17,34,120,4.07,6.78,31,9,127,Brigham Young,Mountain West (MWC),2009,INA,INA,0,0
+AC-2150,Alex,Collins,A.Collins,RB,,70,217,1994,4.64,18,32.5,113,0,0,30.25,9.25,171,Arkansas,Southeastern (SEC),2016,SEA,RB,36,4
+AC-2200,Anthony,Collins,A.Collins,OL,,77,315,1985,5.54,26,27.5,97,4.87,7.71,0,0,112,Kansas,Big 12,2008,INA,INA,0,0
+AC-2225,Arjen,Colquhoun,A.Colquhoun,DB,,73,202,1992,4.59,0,37,121,4.29,7.07,0,0,0,Michigan State,Big Ten,2016,INA,INA,0,0
+AC-2250,Aaron,Colvin,A.Colvin,DB,,71,177,1991,4.51,0,0,0,0,0,0,0,114,Oklahoma,Big 12,2014,JAC,SUS,29,1
+AC-2300,Albert,Connell,A.Connell,WR,,72,179,1974,0,0,0,0,0,0,0,0,115,Texas A&M,Big 12,1997,INA,INA,0,0
+AC-2325,Alex,Cooper,A.Cooper,OL,,76,300,1991,5.25,23,28,104,4.78,7.7,0,0,0,Houston,American Athletic,2016,INA,INA,0,0
+AC-2350,Amari,Cooper,A.Cooper,WR,,73,211,1994,4.31,0,34,120,3.98,6.71,31.5,10,4,Alabama,Southeastern (SEC),2015,OAK,RWR,89,1
+AC-2375,Adrian,Coxson,A.Coxson,WR,,72,214,1992,4.47,15,32,111,4.4,7.03,31.75,9.75,0,Stony Brook,Colonial Athletic (CAA),2015,INA,INA,0,0
+AC-2400,Antonio,Cromartie,A.Cromartie,DB,WR,74,210,1984,4.47,18,38,132,3.89,7.02,0,0,19,Florida State,Atlantic Coast (ACC),2006,IND,RCB,34,2
+AC-2450,Alan,Cross,A.Cross,RB,,73,235,1993,4.84,17,30.5,109,4.58,7.44,0,0,0,Memphis,American Athletic,2016,TB,PS,45,3
+AC-2500,Angelo,Crowell,A.Crowell,LB,,73,235,1981,4.73,25,32.5,0,4.29,7.08,0,0,94,Virginia,Atlantic Coast (ACC),2003,INA,INA,0,0
+AC-2600,Andrew,Crummey,A.Crummey,OL,,77,309,1984,5.32,0,0,0,0,0,0,0,0,Maryland,Atlantic Coast (ACC),2008,INA,INA,0,0
+AC-2700,Alge,Crumpler,A.Crumpler,TE,RB,74,262,1977,4.76,22,34,112,4.43,7.38,0,0,35,North Carolina,Atlantic Coast (ACC),2001,INA,INA,0,0
+AC-2750,Andy,Cruse,A.Cruse,WR,,75,212,1990,4.68,13,34,126,4.22,6.83,0,0,0,Miami (OH),Mid-American (MAC),2013,INA,INA,0,0
+AC-2775,A.J.,Cruz,A.Cruz,WR,,69,195,1991,4.6,21,39,119,4.22,6.56,0,0,0,Brown,Ivy League,2015,INA,INA,0,0
+AC-2800,Airese,Currie,A.Currie,WR,,70,186,1982,4.49,0,38,125,4.07,7.07,0,0,140,Clemson,Atlantic Coast (ACC),2006,INA,INA,0,0
+AC-2900,Aaron,Curry,A.Curry,LB,,74,255,1986,4.52,25,37,124,4.51,7.15,0,0,4,Wake Forest,Atlantic Coast (ACC),2009,INA,INA,0,0
+AD-0050,Anthony,Dable,A.Dable,WR,,76,220,1988,0,0,0,0,0,0,0,0,0,None,,2016,INA,INA,0,0
+AD-0100,Andy,Dalton,A.Dalton,QB,,74,215,1987,4.82,0,29.5,106,4.27,6.93,31.75,9.5,35,Texas Christian,Mountain West (MWC),2011,CIN,QB,14,1
+AD-0200,Antico,Dalton,A.Dalton,LB,,73,240,1975,4.71,30,35,117,4.32,7.49,0,0,199,Hampton,Mid-Eastern Athletic (MEAC),1999,INA,INA,0,0
+AD-0225,Alden,Darby,A.Darby,DB,,71,192,1992,4.65,0,34.5,121,4.32,6.97,0,0,0,Arizona State,Pacific 12,2014,INA,INA,0,0
+AD-0250,Andrew,Datko,A.Datko,OL,,78,315,1990,5.19,0,29.5,100,4.54,7.71,0,0,241,Florida State,Atlantic Coast (ACC),2012,INA,INA,0,0
+AD-0270,A.J.,Davis,A.Davis,DB,,72,183,1989,4.44,8,35.5,127,4.46,7.07,0,0,0,Jacksonville State,Ohio Valley,2012,INA,INA,0,0
+AD-0285,Akeem,Davis,A.Davis,DB,,72,201,1989,4.43,19,39.5,126,4.27,7.05,0,0,0,Memphis,American Athletic,2014,INA,INA,0,0
+AD-0300,Andra,Davis,A.Davis,LB,,73,255,1978,4.77,20,31.5,112,0,0,0,0,141,Florida,Southeastern (SEC),2002,INA,INA,0,0
+AD-0350,Andre,Davis,A.Davis,WR,,72,204,1993,5.11,23,32.5,111,4.77,7.84,33.25,9.25,0,South Florida,American Athletic,2015,INA,INA,0,0
+AD-0375,Andre,Davis,A.Davis,OL,,75,319,1991,5.11,23,32.5,111,4.77,7.84,0,0,0,Buffalo,Mid-American (MAC),2015,INA,INA,0,0
+AD-0400,Andre',Davis,A.Davis,WR,,73,195,1979,4.42,0,39.5,123,4.1,6.77,0,0,47,Virginia Tech,Big East,2002,INA,INA,0,0
+AD-0500,Anthony,Davis,A.Davis,LB,,72,235,1969,0,0,0,0,0,0,0,0,301,Utah,Western Athletic,1993,INA,INA,0,0
+AD-0600,Anthony,Davis,A.Davis,OL,,77,323,1989,5.36,21,33,99,4.97,8.17,0,0,11,Rutgers,Big East,2010,SF,RT,76,2
+AD-0650,Anthony,Davis,A.Davis,OL,,76,322,1980,5.34,0,27.5,95,4.98,8.26,0,0,0,Virginia Tech,Big East,2004,INA,INA,0,0
+AD-0680,Austin,Davis,A.Davis,QB,,74,221,1989,4.69,0,31,109,4.11,6.73,31.75,10.375,0,Southern Mississippi,Conference USA (C-USA),2012,DEN,QB,4,3
+AD-0700,Andrew,Davison,A.Davison,DB,,71,185,1979,0,0,0,0,0,0,0,0,0,Kansas,Big 12,2002,INA,INA,0,0
+AD-0750,Alex,Debniak,A.Debniak,RB,,74,240,1990,4.61,25,33.5,123,4.29,7.03,0,0,0,Stanford,Pacific 12,2013,INA,INA,0,0
+AD-0775,Andre,Debose,A.Debose,WR,,72,190,1990,4.44,12,37.5,123,4.09,6.93,32.25,8.625,221,Florida,Southeastern (SEC),2015,INA,INA,0,0
+AD-0800,Al,Del Greco,A.Del Greco,K,,70,200,1962,0,0,0,0,0,0,0,0,0,Auburn,Southeastern (SEC),1984,INA,INA,0,0
+AD-0850,Anthony,Denham,A.Denham,TE,,76,235,1991,4.69,14,32.5,113,4.56,7.38,33.375,10.5,0,Utah,Pacific 12,2014,INA,INA,0,0
+AD-0900,Anthony,Denman,A.Denman,LB,,71,235,1979,4.76,0,0,0,0,0,0,0,213,Notre Dame,FBS Independents,2001,INA,INA,0,0
+AD-0930,Alfonzo,Dennard,A.Dennard,DB,,70,205,1989,4.48,0,37,121,0,0,0,0,224,Nebraska,Big Ten,2012,INA,INA,0,0
+AD-0960,Antonio,Dennard,A.Dennard,DB,,71,185,1989,4.55,0,0,0,0,0,0,0,0,Langston,,2012,INA,INA,0,0
+AD-1000,Autry,Denson,A.Denson,RB,,70,193,1976,4.67,20,31,116,4.15,6.97,0,0,233,Notre Dame,FBS Independents,1999,INA,INA,0,0
+AD-1100,Akeem,Dent,A.Dent,LB,,73,242,1987,4.78,24,37.5,123,4.38,6.93,0,0,91,Georgia,Southeastern (SEC),2011,HOU,LILB,50,3
+AD-1150,Andrew,DePaola,A.DePaola,LS,,74,230,1987,4.73,20,33,109,4.28,6.88,0,0,0,Rutgers,Big East,2012,TB,LS,48,1
+AD-1175,A.J.,Derby,A.Derby,TE,,76,255,1991,4.72,15,0,0,4.51,6.99,30.5,9.5,202,Arkansas,Southeastern (SEC),2015,NE,TE,86,2
+AD-1187,Anthony,Dima,A.Dima,OL,,78,302,1990,5.21,31,29,116,4.53,7.62,0,0,0,Massachusetts,Mid-American (MAC),2014,INA,INA,0,0
+AD-1200,Adrian,Dingle,A.Dingle,DL,,75,272,1977,4.94,20,33,112,4.4,7.43,0,0,139,Clemson,Atlantic Coast (ACC),2000,INA,INA,0,0
+AD-1250,Ahmad,Dixon,A.Dixon,DB,,72,212,1991,4.56,14,34,111,4.39,7.28,0,0,248,Baylor,Big 12,2014,INA,INA,0,0
+AD-1300,Anthony,Dixon,A.Dixon,RB,,73,233,1987,4.67,15,33,121,4.45,7.09,32.5,9.75,173,Mississippi State,Southeastern (SEC),2010,INA,INA,0,0
+AD-1400,Antonio,Dixon,A.Dixon,DL,,74,325,1985,5.17,0,0,0,0,0,0,0,0,Miami (FL),Atlantic Coast (ACC),2009,INA,INA,0,0
+AD-1450,Aaron,Dobson,A.Dobson,WR,,75,210,1991,4.37,16,35,121,4.33,7.19,33,9,59,Marshall,Conference USA (C-USA),2013,DET,LWR,0,2
+AD-1475,Aaron,Donald,A.Donald,DL,,73,285,1991,4.62,35,32,116,4.39,7.11,0,0,13,Pittsburgh,Atlantic Coast (ACC),2014,LA,LDT,99,1
+AD-1487,Andrew,Donnal,A.Donnal,OL,,78,313,1992,5.3,23,32,101,4.77,7.51,0,0,119,Iowa,Big Ten,2015,LA,RG,64,2
+AD-1500,Anthony,Dorsett,A.Dorsett,DB,,71,205,1973,0,0,0,0,0,0,0,0,177,Pittsburgh,Big East,1996,INA,INA,0,0
+AD-1550,Adam,Drake,A.Drake,WR,,74,195,1992,4.58,11,38,121,4.15,6.7,0,0,0,Eastern Illinois,Ohio Valley,2015,INA,INA,0,0
+AD-1600,Anthony,Dunn,A.Dunn,DL,,74,255,1980,0,0,0,0,0,0,0,0,0,Northern Colorado,,2003,INA,INA,0,0
+AD-1700,Andre,Dyson,A.Dyson,DB,,70,183,1979,4.4,0,0,119,0,0,0,0,60,Utah,Mountain West (MWC),2001,INA,INA,0,0
+AE-0050,Andrew,East,A.East,LS,,74,225,1991,4.78,20,33,110,4.29,6.97,0,0,0,Vanderbilt,Southeastern (SEC),2015,INA,INA,0,0
+AE-0100,Adimchinobe,Echemandu,A.Echemandu,RB,,70,225,1980,4.58,0,0,0,0,0,0,0,208,California,Pacific 10,2004,INA,INA,0,0
+AE-0200,Andrew,Economos,A.Economos,OL,,73,250,1982,4.98,0,0,0,0,0,0,0,0,Georgia Tech,Atlantic Coast (ACC),2006,INA,INA,0,0
+AE-0300,A.J.,Edds,A.Edds,LB,,76,246,1987,4.62,16,33,120,4.28,7.19,0,0,0,Iowa,Big Ten,2011,INA,INA,0,0
+AE-0400,Antuan,Edwards,A.Edwards,DB,,73,212,1977,4.46,0,38,123,3.96,6.89,0,0,25,Clemson,Atlantic Coast (ACC),1999,INA,INA,0,0
+AE-0500,Armanti,Edwards,A.Edwards,WR,,71,187,1988,4.43,13,34.5,123,4.19,6.74,0,0,89,Appalachian State,Southern,2010,INA,INA,0,0
+AE-0600,Abram,Elam,A.Elam,DB,,72,207,1981,4.49,0,0,0,0,0,0,0,0,Notre Dame,FBS Independents,2006,INA,INA,0,0
+AE-0700,Aaron,Elling,A.Elling,K,,74,201,1978,0,0,0,0,0,0,0,0,0,Wyoming,Mountain West (MWC),2003,INA,INA,0,0
+AE-0750,Andre,Ellington,A.Ellington,RB,,69,199,1989,4.52,0,34,122,0,0,31,9.375,187,Clemson,Atlantic Coast (ACC),2013,ARI,RB,38,3
+AE-0775,Alex,Ellis,A.Ellis,TE,,76,215,1993,4.79,20,34.5,121,4.37,6.87,0,0,0,Tennessee,Southeastern (SEC),2016,JAC,PS,48,3
+AE-0800,Atiyyah,Ellison,A.Ellison,DL,,75,322,1981,5.07,25,27.5,103,4.83,8.01,0,0,89,Missouri,Big 12,2006,INA,INA,0,0
+AE-0900,Auston,English,A.English,LB,DL,75,250,1987,4.8,25,35,120,4.41,7.36,0,0,0,Oklahoma,Big 12,2011,INA,INA,0,0
+AE-1000,Alonzo,Ephraim,A.Ephraim,OL,,76,312,1981,5.32,0,0,0,0,0,0,0,0,Alabama,Southeastern (SEC),2003,INA,INA,0,0
+AE-1025,Aaron,Epps,A.Epps,OL,,78,288,1992,5.3,24,26.5,101,4.93,7.84,0,0,0,Louisville,Atlantic Coast (ACC),2016,INA,INA,0,0
+AE-1037,Alex,Erickson,A.Erickson,WR,,72,198,1992,4.54,14,34.5,116,4.1,6.68,0,0,0,Wisconsin,Big Ten,2016,CIN,RWR,12,3
+AE-1050,Antoine,Everett,A.Everett,OL,,74,328,1991,5.74,21,20.5,91,5.18,8.5,0,0,0,McNeese State,Southland,2015,INA,INA,0,0
+AE-1100,Antone,Exum,A.Exum,DB,,72,213,1991,4.51,17,35,117,4.13,7.01,0,0,182,Virginia Tech,Atlantic Coast (ACC),2014,MIN,RES,32,5
+AE-1200,Anthony,Ezeakunne,A.Ezeakunne,TE,,76,240,1992,0,0,0,0,0,0,0,0,0,Chapman,,2015,INA,INA,0,0
+AF-0050,Anthony,Fabiano,A.Fabiano,OL,,76,298,1993,5.04,25,32.5,108,4.42,7.41,0,0,0,Harvard,Ivy League,2016,CLE,PS,61,1
+AF-0100,Alan,Faneca,A.Faneca,OL,,77,312,1976,0,0,0,0,0,0,0,0,26,LSU,Southeastern (SEC),1998,INA,INA,0,0
+AF-0200,Anthony,Fasano,A.Fasano,TE,WR,76,255,1984,4.86,19,33.5,112,4.34,6.94,0,0,53,Notre Dame,FBS Independents,2006,TEN,TE,80,1
+AF-0300,A.J.,Feeley,A.Feeley,QB,,75,225,1977,5.13,0,26,0,4.16,0,0,0,155,Oregon,Pacific 10,2001,INA,INA,0,0
+AF-0400,Aaron,Fields,A.Fields,DL,,76,243,1976,4.76,22,34,115,4.56,7.51,0,0,0,Troy,Southland,2000,INA,INA,0,0
+AF-0500,Alfred,Fincher,A.Fincher,LB,,73,241,1983,4.68,25,31.5,112,4.48,7.7,0,0,82,Connecticut,Big East,2005,INA,INA,0,0
+AF-0600,Anthony,Floyd,A.Floyd,DB,,70,202,1981,4.6,19,33.5,117,4.2,7.09,0,0,0,Louisville,Conference USA (C-USA),2003,INA,INA,0,0
+AF-0700,Andre,Fluellen,A.Fluellen,DL,,74,285,1985,5,0,28.5,104,4.45,7.78,0,0,87,Florida State,Atlantic Coast (ACC),2008,INA,INA,0,0
+AF-0800,Al,Fontenot,A.Fontenot,DL,,76,287,1970,0,0,0,0,0,0,0,0,112,Baylor,Southwest,1993,INA,INA,0,0
+AF-0900,Arian,Foster,A.Foster,RB,,73,224,1986,4.68,23,32,115,4.53,7.09,0,0,0,Tennessee,Southeastern (SEC),2009,MIA,RB,34,1
+AF-0950,A.J.,Francis,A.Francis,DL,,77,309,1990,5.2,24,29,112,4.58,7.45,0,0,0,Maryland,Atlantic Coast (ACC),2013,INA,INA,0,0
+AF-1000,Aaron,Francisco,A.Francisco,DB,LB,74,212,1983,4.74,17,35,113,4.13,6.98,0,0,0,Brigham Young,Mountain West (MWC),2005,INA,INA,0,0
+AF-1100,Aubrayo,Franklin,A.Franklin,DL,,73,315,1980,5.2,0,27,100,4.79,0,0,0,146,Tennessee,Southeastern (SEC),2003,INA,INA,0,0
+AF-1150,Andrew,Franks,A.Franks,K,,72,201,1993,5.08,0,0,0,0,0,0,0,0,Rensselaer Poly Inst.,,2015,MIA,PK,3,1
+AF-1200,Andre,Frazier,A.Frazier,LB,,77,234,1982,4.66,19,38,124,4.12,7.09,0,0,0,Cincinnati,Conference USA (C-USA),2005,INA,INA,0,0
+AF-1300,Antonio,Freeman,A.Freeman,WR,,73,198,1972,0,0,0,0,0,0,0,0,90,Virginia Tech,Big East,1995,INA,INA,0,0
+AF-1400,Arturo,Freeman,A.Freeman,DB,,73,200,1976,4.5,14,35.5,124,4.38,6.91,0,0,152,South Carolina,Southeastern (SEC),2000,INA,INA,0,0
+AF-1500,Alani,Fua,A.Fua,LB,,77,238,1992,4.59,20,34.5,119,4.15,6.83,0,0,0,Brigham Young,FBS Independents,2015,ARI,RILB,59,2
+AF-1600,Adam,Fuehne,A.Fuehne,TE,,79,254,1993,5.06,0,31.5,104,4.14,7.15,0,0,0,Southern Illinois,Missouri Valley,2016,INA,INA,0,0
+AG-0100,Andrew,Gachkar,A.Gachkar,LB,,75,228,1988,4.58,18,34,118,4.29,6.95,0,0,234,Missouri,Big 12,2011,DAL,SLB,52,1
+AG-0200,Anthony,Gaitor,A.Gaitor,DB,,70,175,1988,4.48,12,36,126,4.12,6.85,0,0,222,Florida International,Sun Belt,2011,INA,INA,0,0
+AG-0250,Andy,Gallik,A.Gallik,OL,,74,306,1991,5.43,29,27,96,4.58,7.66,0,0,208,Boston College,Atlantic Coast (ACC),2015,TEN,RES,69,4
+AG-0300,Antonio,Garay,A.Garay,DL,,75,320,1979,4.9,0,0,0,0,0,0,0,195,Boston College,Big East,2003,INA,INA,0,0
+AG-0400,Andrew,Gardner,A.Gardner,OL,,78,305,1986,4.98,0,30.5,107,4.7,7.51,0,0,181,Georgia Tech,Atlantic Coast (ACC),2009,INA,INA,0,0
+AG-0500,Antonio,Gates,A.Gates,TE,,76,260,1980,0,0,0,0,0,0,0,0,0,Kent State,Mid-American (MAC),2003,SD,TE,85,1
+AG-0600,Akbar,Gbaja-Biamila,A.Gbaja-Biamila,DL,LB,77,270,1979,4.9,0,0,0,0,0,0,0,0,San Diego State,Mountain West (MWC),2003,INA,INA,0,0
+AG-0650,Adam,Gettis,A.Gettis,OL,,74,293,1988,4.9,0,31.5,112,4.65,7.99,0,0,141,Iowa,Big Ten,2012,NYG,PS,60,4
+AG-0700,Aaron,Gibson,A.Gibson,OL,,78,375,1977,5.35,31,24,111,4.54,7.99,0,0,27,Wisconsin,Big Ten,2000,INA,INA,0,0
+AG-0750,Alex,Gillett,A.Gillett,WR,,73,214,1991,4.6,13,38.5,115,4.51,7.13,0,0,0,Eastern Michigan,Mid-American (MAC),2013,INA,INA,0,0
+AG-0775,Adarius,Glanton,A.Glanton,LB,,73,215,1990,4.62,32,33,117,4.5,7.09,0,0,0,Florida Atlantic,Conference USA (C-USA),2014,TB,WLB,53,2
+AG-0787,Andrew,Gleichert,A.Gleichert,TE,,77,260,1992,4.88,20,34.5,115,4.46,7.37,0,0,0,Michigan State,Big Ten,2015,INA,INA,0,0
+AG-0800,Aaron,Glenn,A.Glenn,DB,,69,185,1972,0,0,0,0,0,0,0,0,12,Texas A&M,Southwest,1994,INA,INA,0,0
+AG-0900,Andrew,Glover,A.Glover,TE,,78,250,1967,0,0,0,0,0,0,0,0,274,Grambling State,Southwestern Athletic (SWAC),1991,INA,INA,0,0
+AG-0950,Antonio,Glover,A.Glover,DB,,72,179,1993,4.64,16,37.5,127,4.2,7.61,0,0,0,Georgia Southern,Sun Belt,2016,INA,INA,0,0
+AG-1000,Adam,Goldberg,A.Goldberg,OL,,79,310,1980,0,0,0,0,0,0,0,0,0,Wyoming,Mountain West (MWC),2004,INA,INA,0,0
+AG-1100,Anthony,Gonzalez,A.Gonzalez,WR,,72,193,1984,4.44,16,38,123,4.08,6.54,0,0,32,Ohio State,Big Ten,2007,INA,INA,0,0
+AG-1150,Antwan,Goodley,A.Goodley,WR,,70,209,1991,4.43,0,35,127,4.38,7.19,30.75,9.25,0,Baylor,Big 12,2015,SEA,PS,14,4
+AG-1200,Andre',Goodman,A.Goodman,DB,LB,70,185,1978,4.36,0,0,0,0,0,0,0,68,South Carolina,Southeastern (SEC),2002,INA,INA,0,0
+AG-1300,Amon,Gordon,A.Gordon,DL,,74,305,1981,4.88,0,0,0,0,0,0,0,161,Stanford,Pacific 10,2004,INA,INA,0,0
+AG-1350,Adam,Gotsis,A.Gotsis,DL,,76,287,1992,4.88,23,0,0,0,0,34.125,10.75,63,Georgia Tech,Atlantic Coast (ACC),2016,DEN,RDE,99,2
+AG-1400,Aaron,Graham,A.Graham,OL,,76,301,1973,0,0,0,0,0,0,0,0,112,Nebraska,Big Eight,1996,INA,INA,0,0
+AG-1450,Antwane,Grant,A.Grant,WR,,71,190,1992,4.73,26,34.5,123,4.39,7.09,0,0,0,Western Kentucky,Conference USA (C-USA),2016,INA,INA,0,0
+AG-1500,A.J.,Green,A.Green,WR,,76,211,1988,4.4,18,34.5,126,4.21,6.91,34.375,9.25,4,Georgia,Southeastern (SEC),2011,CIN,LWR,18,1
+AG-1550,Aaron,Green,A.Green,RB,,71,203,1992,4.56,18,32.5,120,4.04,6.81,0,0,0,Texas Christian,Big 12,2016,LA,PS,36,4
+AG-1600,Ahman,Green,A.Green,RB,,72,217,1977,0,0,0,0,0,0,0,0,76,Nebraska,Big 12,1998,INA,INA,0,0
+AG-1700,Alex,Green,A.Green,RB,,72,225,1988,4.45,20,34,114,4.15,6.91,0,0,96,Hawaii,Western Athletic,2011,INA,INA,0,0
+AG-1800,Andy,Groom,A.Groom,K,,72,196,1979,4.63,0,0,0,0,0,0,0,0,Ohio State,Big Ten,2005,INA,INA,0,0
+AG-1850,Aaron,Grymes,A.Grymes,DB,,71,185,1991,4.6,11,40,124,4.23,6.88,0,0,0,Idaho,Sun Belt,2016,INA,INA,0,0
+AG-1900,Andre,Gurode,A.Gurode,OL,,76,314,1979,5.34,0,30.5,100,5.05,8.15,0,0,37,Colorado,Big 12,2002,INA,INA,0,0
+AH-0100,Adam,Haayer,A.Haayer,OL,,78,311,1977,5.3,23,0,0,0,0,0,0,199,Minnesota,Big Ten,2002,INA,INA,0,0
+AH-0200,Az-Zahir,Hakim,A.Hakim,WR,,70,189,1977,0,0,0,0,0,0,0,0,96,San Diego State,Western Athletic,1998,INA,INA,0,0
+AH-0250,Andre,Hal,A.Hal,DB,,70,188,1992,4.5,15,35.5,119,4.27,7.14,0,0,216,Vanderbilt,Southeastern (SEC),2014,HOU,FS,29,1
+AH-0300,Ahmard,Hall,A.Hall,RB,,71,235,1979,4.49,24,0,120,4.22,7.22,0,0,0,Texas,Big 12,2006,INA,INA,0,0
+AH-0400,Alex,Hall,A.Hall,DL,LB,77,250,1985,4.72,0,0,0,0,0,0,0,231,St. Augustine's,,2008,INA,INA,0,0
+AH-0500,Andre,Hall,A.Hall,RB,,69,205,1982,4.4,18,33,113,4.2,7.39,0,0,0,South Florida,Big East,2007,INA,INA,0,0
+AH-0600,Andy,Hall,A.Hall,QB,,75,218,1980,4.68,0,0,0,0,0,0,0,185,Delaware,Atlantic 10,2005,INA,INA,0,0
+AH-0700,Aaron,Halterman,A.Halterman,TE,,77,255,1982,4.93,20,33.5,110,4.22,6.92,0,0,0,Indiana,Big Ten,2007,INA,INA,0,0
+AH-0750,Adrian,Hamilton,A.Hamilton,LB,,75,251,1987,4.84,24,30,110,4.5,7.06,0,0,0,Prairie View,,2012,INA,INA,0,0
+AH-0762,Antonio,Hamilton,A.Hamilton,DB,,72,178,1993,4.46,14,38,132,4.27,6.97,0,0,0,South Carolina State,Mid-Eastern Athletic (MEAC),2016,OAK,LCB,32,3
+AH-0775,Andre,Hardy,A.Hardy,TE,,77,250,1987,0,0,0,0,0,0,0,0,0,California-Fullerton,,2014,INA,INA,0,0
+AH-0800,Anthony,Hargrove,A.Hargrove,DL,,75,269,1983,4.85,0,0,0,0,0,0,0,91,Georgia Tech,Atlantic Coast (ACC),2004,INA,INA,0,0
+AH-0900,Alan,Harper,A.Harper,DL,,73,285,1979,5.27,0,30.5,104,4.64,0,0,0,121,Fresno State,Western Athletic,2004,INA,INA,0,0
+AH-1000,Al,Harris,A.Harris,DB,,73,185,1974,0,0,0,0,0,0,0,0,169,Texas A&M-Kingsville,Big 12,1997,INA,INA,0,0
+AH-1150,Alonzo,Harris,A.Harris,RB,,73,232,1992,4.66,15,36,127,4.51,7.18,33.5,10.125,0,Louisiana-Lafayette,Sun Belt,2015,INA,INA,0,0
+AH-1300,Anthony,Harris,A.Harris,DB,,73,183,1991,4.56,0,0,0,0,0,0,0,0,Virginia,Atlantic Coast (ACC),2015,MIN,FS,41,2
+AH-1400,Antoine,Harris,A.Harris,DB,,70,240,1984,4.48,0,36,120,4.01,6.9,0,0,0,Louisville,Big East,2007,INA,INA,0,0
+AH-1425,Antwan,Harris,A.Harris,DB,,69,194,1977,4.34,16,39,121,4.01,6.75,0,0,187,Virginia,Atlantic Coast (ACC),2000,INA,INA,0,0
+AH-1450,Arlen,Harris,A.Harris,RB,,70,212,1980,0,0,0,0,0,0,0,0,0,Virginia,Atlantic Coast (ACC),2003,INA,INA,0,0
+AH-1475,Atnaf,Harris,A.Harris,WR,,73,182,1979,0,0,0,0,0,0,0,0,0,Fresno State,Western Athletic,2002,INA,INA,0,0
+AH-1500,Arnold,Harrison,A.Harrison,LB,,75,236,1982,4.69,19,34.5,117,4.35,7.31,0,0,0,Georgia,Southeastern (SEC),2006,INA,INA,0,0
+AH-1600,Andre,Hastings,A.Hastings,WR,,73,190,1971,0,0,0,0,0,0,0,0,76,Georgia,Southeastern (SEC),1993,INA,INA,0,0
+AH-1700,Armon,Hatcher,A.Hatcher,DB,,72,212,1976,4.58,0,36,122,4.2,7.23,0,0,194,Oregon State,Pacific 10,2000,INA,INA,0,0
+AH-1800,A.J.,Hawk,A.Hawk,LB,,73,242,1984,4.59,24,40,115,3.96,6.82,0,0,5,Ohio State,Big Ten,2006,INA,INA,0,0
+AH-1900,Andrew,Hawkins,A.Hawkins,WR,,67,175,1986,4.38,9,38,114,4.03,6.81,0,0,0,Toledo,Mid-American (MAC),2011,CLE,LWR,16,2
+AH-2000,Artrell,Hawkins,A.Hawkins,DB,LB,70,190,1976,0,0,0,0,0,0,0,0,43,Cincinnati,Conference USA (C-USA),1998,INA,INA,0,0
+AH-2100,Anttaj,Hawthorne,A.Hawthorne,DL,,75,310,1981,5.23,24,30.5,103,4.69,7.7,0,0,175,Wisconsin,Big Ten,2005,INA,INA,0,0
+AH-2200,Alex,Haynes,A.Haynes,RB,,70,223,1982,4.51,21,38,120,3.9,0,0,0,0,Central Florida,Conference USA (C-USA),2007,INA,INA,0,0
+AH-2300,Albert,Haynesworth,A.Haynesworth,DL,,78,320,1981,5.09,0,0,0,0,0,0,0,15,Tennessee,Southeastern (SEC),2002,INA,INA,0,0
+AH-2400,Adam,Hayward,A.Hayward,LB,,73,240,1984,4.5,23,36,118,4.47,7.07,0,0,182,Portland State,Big Sky,2007,INA,INA,0,0
+AH-2500,Andy,Heck,A.Heck,OL,,78,298,1967,0,0,0,0,0,0,0,0,15,Notre Dame,FBS Independents,1989,INA,INA,0,0
+AH-2550,A.J.,Hendy,A.Hendy,DB,,73,207,1993,4.56,16,40.5,135,4.16,7.03,0,0,0,Maryland,Big Ten,2016,MIA,PS,37,4
+AH-2600,Alex,Henery,A.Henery,K,,73,177,1987,4.87,0,0,0,0,0,0,0,120,Nebraska,Big 12,2011,INA,INA,0,0
+AH-2700,Anthony,Henry,A.Henry,DB,,73,205,1976,4.6,15,41,126,4.21,6.92,0,0,97,South Florida,FCS Independents,2001,INA,INA,0,0
+AH-2800,Aaron,Hernandez,A.Hernandez,TE,RB,74,245,1989,4.53,30,33,111,4.18,6.83,0,0,113,Florida,Southeastern (SEC),2010,INA,INA,0,0
+AH-2850,Amarlo,Herrera,A.Herrera,LB,,73,244,1991,4.78,23,32,111,4.27,7.35,0,0,207,Georgia,Southeastern (SEC),2015,WAS,PS,0,5
+AH-2900,Anthony,Herrera,A.Herrera,OL,,74,315,1980,5.2,0,0,0,0,0,0,0,0,Tennessee,Southeastern (SEC),2005,INA,INA,0,0
+AH-3000,Anthony,Herron,A.Herron,DL,,75,280,1979,5.16,26,36,114,4.43,7.58,0,0,0,Iowa,Big Ten,2001,INA,INA,0,0
+AH-3025,Aaron,Hester,A.Hester,DB,,74,207,1990,4.47,0,32.5,120,4.33,6.92,0,0,0,UCLA,Pacific 12,2013,INA,INA,0,0
+AH-3050,Akiem,Hicks,A.Hicks,DL,,77,318,1989,5.21,26,31.5,108,4.86,7.75,0,0,89,Regina,,2012,CHI,DE,96,1
+AH-3100,Artis,Hicks,A.Hicks,OL,,76,312,1978,5.08,22,29.5,104,4.64,7.85,0,0,0,Memphis,Conference USA (C-USA),2003,INA,INA,0,0
+AH-3200,Ali,Highsmith,A.Highsmith,LB,,72,229,1985,4.95,23,29,112,4.29,7.4,0,0,0,LSU,Southeastern (SEC),2008,INA,INA,0,0
+AH-3250,Alonzo,Highsmith,A.Highsmith,LB,,72,234,1989,4.8,0,0,0,0,0,0,0,0,Arkansas,Southeastern (SEC),2013,INA,INA,0,0
+AH-3275,Alfy,Hill,A.Hill,DL,,76,275,1992,4.9,22,31,112,4.83,7.54,0,0,0,Winston-Salem State,,2015,INA,INA,0,0
+AH-3300,Anthony,Hill,A.Hill,TE,,77,264,1985,4.84,21,30.5,116,4.56,7.31,0,0,122,North Carolina State,Atlantic Coast (ACC),2009,INA,INA,0,0
+AH-3325,Austin,Hill,A.Hill,WR,,74,210,1991,4.59,17,36.5,121,4.11,6.72,31.625,9.125,0,Arizona,Pacific 12,2015,INA,INA,0,0
+AH-3350,Anthony,Hitchens,A.Hitchens,LB,,72,240,1992,4.71,23,35.5,117,4.44,7.15,0,0,119,Iowa,Big Ten,2014,DAL,MLB,59,1
+AH-3400,Abdul,Hodge,A.Hodge,LB,,72,235,1982,4.76,25,31,108,4.35,7.11,0,0,67,Iowa,Big Ten,2006,INA,INA,0,0
+AH-3500,Alex,Holmes,A.Holmes,TE,,75,270,1981,4.92,18,0,0,0,0,0,0,0,USC,Pacific 10,2005,INA,INA,0,0
+AH-3600,Andre,Holmes,A.Holmes,WR,,76,223,1988,4.51,11,35,130,4.31,6.69,34,8.625,0,Hillsdale,,2011,OAK,RWR,18,2
+AH-3650,Austin,Hooper,A.Hooper,TE,,76,254,1994,4.69,19,33,117,4.32,7,33.75,10.625,81,Stanford,Pacific 12,2016,ATL,TE,81,2
+AH-3700,Austin,Howard,A.Howard,OL,,79,333,1987,5.41,19,30.5,109,4.62,8.1,0,0,0,Northern Iowa,Missouri Valley,2010,OAK,RT,77,2
+AH-3800,Adrian,Hubbard,A.Hubbard,LB,,78,257,1992,4.66,0,38.5,117,4.58,0,0,0,0,Alabama,Southeastern (SEC),2014,INA,INA,0,0
+AH-3850,Andrew,Hudson,A.Hudson,LB,,74,250,1992,4.98,23,31,113,4.3,6.96,0,0,0,Washington,Pacific 12,2015,INA,INA,0,0
+AH-3862,Adam,Humphries,A.Humphries,WR,,71,190,1993,4.53,14,32.5,122,4.32,6.96,30,9.25,0,Clemson,Atlantic Coast (ACC),2015,TB,LWR,11,2
+AH-3875,Akeem,Hunt,A.Hunt,RB,,68,185,1993,4.4,14,37.5,122,4.07,6.71,31.125,9.625,0,Purdue,Big Ten,2015,HOU,PS,33,2
+AH-3900,Allen,Hurns,A.Hurns,WR,TE,73,198,1991,4.54,14,31,120,4.5,7.23,32,9.25,0,Miami (FL),Atlantic Coast (ACC),2014,JAC,RWR,88,1
+AJ-0100,Al,Jackson,A.Jackson,OL,,75,306,1977,5.2,19,0,0,0,0,0,0,0,LSU,Southeastern (SEC),2000,INA,INA,0,0
+AJ-0200,Alonzo,Jackson,A.Jackson,DL,LB,76,262,1980,4.86,14,37,114,4.5,7.69,0,0,59,Florida State,Atlantic Coast (ACC),2003,INA,INA,0,0
+AJ-0250,Andrew,Jackson,A.Jackson,LB,,73,254,1992,4.92,25,32.5,119,4.24,7.28,0,0,203,Western Kentucky,Sun Belt,2014,INA,INA,0,0
+AJ-0300,Arnold,Jackson,A.Jackson,WR,TE,68,168,1977,4.48,0,41,127,4.11,7.42,0,0,0,Louisville,Conference USA (C-USA),2001,INA,INA,0,0
+AJ-0350,Asa,Jackson,A.Jackson,DB,,70,190,1989,4.47,19,37.5,118,4.03,6.97,0,0,169,Cal Poly,Great West,2012,INA,INA,0,0
+AJ-0375,Andy,Janovich,A.Janovich,RB,,73,238,1993,4.75,30,34,119,4.32,7.28,31.625,9.75,176,Nebraska,Big Ten,2016,DEN,FB,32,1
+AJ-0400,A.J.,Jefferson,A.Jefferson,DB,,72,190,1988,4.42,7,44,126,4,6.72,0,0,0,Fresno State,Western Athletic,2010,INA,INA,0,0
+AJ-0415,Anthony,Jefferson,A.Jefferson,DB,,73,198,1992,4.63,15,33.5,116,4.15,7.18,0,0,0,UCLA,Pacific 12,2015,INA,INA,0,0
+AJ-0430,Alshon,Jeffery,A.Jeffery,WR,,75,216,1990,4.48,0,36.5,122,4.17,6.71,33,10.25,45,South Carolina,Southeastern (SEC),2012,CHI,LWR,17,1
+AJ-0460,A.J.,Jenkins,A.Jenkins,WR,,72,192,1989,4.37,12,38.5,124,4.12,6.73,32.75,9.5,30,Illinois,Big Ten,2012,INA,INA,0,0
+AJ-0500,Adam,Jennings,A.Jennings,WR,,69,181,1982,4.44,0,37.5,118,4.16,6.89,0,0,184,Fresno State,Western Athletic,2006,INA,INA,0,0
+AJ-0600,Ade,Jimoh,A.Jimoh,DB,,73,190,1980,4.44,0,0,0,0,0,0,0,0,Utah State,FBS Independents,2003,INA,INA,0,0
+AJ-0700,Al,Johnson,A.Johnson,OL,,77,305,1979,5.08,0,0,0,0,0,0,0,38,Wisconsin,Big Ten,2004,INA,INA,0,0
+AJ-0800,Albert,Johnson,A.Johnson,WR,,69,190,1977,0,0,0,0,0,0,0,0,0,SMU,Western Athletic,2002,INA,INA,0,0
+AJ-0900,Andre,Johnson,A.Johnson,WR,,74,225,1981,4.4,0,41,132,4.1,0,34,9.125,3,Miami (FL),Big East,2003,TEN,LWR,81,2
+AJ-1000,Anthony,Johnson,A.Johnson,RB,WR,72,225,1967,0,0,0,0,0,0,0,0,36,Notre Dame,FBS Independents,1990,INA,INA,0,0
+AJ-1050,Anthony,Johnson,A.Johnson,DL,,74,308,1993,5.22,20,24.5,102,4.83,7.93,0,0,0,LSU,Southeastern (SEC),2014,NE,DT,65,2
+AJ-1100,Antonio,Johnson,A.Johnson,DL,,75,310,1984,5.15,28,29,108,4.49,7.51,0,0,152,Mississippi State,Southeastern (SEC),2007,INA,INA,0,0
+AJ-1112,Antonio,Johnson,A.Johnson,OL,,77,310,1992,5.73,5,23,98,5.07,8.64,0,0,0,North Texas,Conference USA (C-USA),2015,INA,INA,0,0
+AJ-1125,Austin,Johnson,A.Johnson,RB,LB,74,235,1989,4.72,25,30.5,106,4.37,7.32,0,0,0,Tennessee,Southeastern (SEC),2012,INA,INA,0,0
+AJ-1137,Austin,Johnson,A.Johnson,DL,,76,314,1994,5.28,25,26,99,4.75,7.84,32.75,9.875,43,Penn State,Big Ten,2016,TEN,NT,94,2
+AJ-1150,Abry,Jones,A.Jones,DL,,75,313,1991,5.24,30,26.5,101,4.94,7.83,0,0,0,Georgia,Southeastern (SEC),2013,JAC,DT,95,2
+AJ-1200,Adam,Jones,A.Jones,DB,,69,185,1983,4.47,9,38.5,0,0,0,0,0,6,West Virginia,Big East,2005,CIN,RCB,24,1
+AJ-1300,Adrian,Jones,A.Jones,OL,,76,296,1981,4.97,27,31,114,4.6,7.81,0,0,132,Kansas,Big 12,2004,INA,INA,0,0
+AJ-1400,Aki,Jones,A.Jones,DL,,76,295,1982,0,0,0,0,0,0,0,0,0,Fordham,,2005,INA,INA,0,0
+AJ-1450,Andy,Jones,A.Jones,WR,,73,213,1994,4.55,11,41.5,133,4.35,6.97,0,0,0,Jacksonville,,2016,DAL,PS,81,3
+AJ-1500,Arthur,Jones,A.Jones,DL,,75,315,1986,5.04,30,0,0,0,0,0,0,0,Syracuse,Big East,2010,IND,SUS,97,1
+AJ-1600,Akeem,Jordan,A.Jordan,LB,,73,230,1985,0,0,0,0,0,0,0,0,0,James Madison,Atlantic 10,2007,INA,INA,0,0
+AJ-1700,Andrew,Jordan,A.Jordan,TE,,78,260,1972,0,0,0,0,0,0,0,0,179,Western Carolina,Southern,1994,INA,INA,0,0
+AJ-1800,Antony,Jordan,A.Jordon,LB,,75,235,1974,0,0,0,0,0,0,0,0,135,Vanderbilt,Southeastern (SEC),1998,INA,INA,0,0
+AJ-1900,Alex,Joseph,A.Joseph,LB,,74,240,1988,4.62,21,33,119,4.09,6.69,0,0,0,Temple,Mid-American (MAC),2010,INA,INA,0,0
+AK-0100,Aaron,Kampman,A.Kampman,DL,LB,76,286,1979,4.87,0,0,0,0,0,0,0,156,Iowa,Big Ten,2002,INA,INA,0,0
+AK-0200,Alain,Kashama,A.Kashama,DL,,76,270,1979,4.8,0,0,0,0,0,0,0,0,Michigan,Big Ten,2004,INA,INA,0,0
+AK-0300,Andy,Katzenmoyer,A.Katzenmoyer,LB,,75,255,1977,4.68,23,0,0,0,0,0,0,28,Ohio State,Big Ten,1999,INA,INA,0,0
+AK-0325,Anthony,Kelly,A.Kelly,WR,,74,210,1993,4.45,0,0,0,4.13,0,0,0,0,Kutztown,,2016,INA,INA,0,0
+AK-0350,Akeem,King,A.King,DB,,73,215,1992,4.43,20,37.5,122,4.39,7.08,0,0,249,San Jose State,Mountain West (MWC),2015,ATL,RES,25,3
+AK-0400,Andre,King,A.King,WR,,71,195,1973,4.61,0,35.5,0,0,0,0,0,245,Miami (FL),Big East,2001,INA,INA,0,0
+AK-0500,Andy,King,A.King,OL,,76,310,1978,0,0,0,0,0,0,0,0,0,Illinois State,Missouri Valley,2002,INA,INA,0,0
+AK-0600,Austin,King,A.King,OL,,77,303,1981,5.42,20,28,106,4.73,7.99,0,0,133,Northwestern,Big Ten,2004,INA,INA,0,0
+AK-0625,Andrae,Kirk,A.Kirk,LB,,74,225,1993,4.73,19,33.5,118,5.01,7.54,0,0,0,Florida Atlantic,Conference USA (C-USA),2015,INA,INA,0,0
+AK-0650,A.J.,Klein,A.Klein,LB,,73,250,1991,4.66,20,33,113,4.35,7.09,0,0,148,Iowa State,Big 12,2013,CAR,SLB,56,2
+AK-0700,Adrian,Klemm,A.Klemm,OL,,75,310,1977,4.98,24,0,0,0,0,0,0,46,Hawaii,Western Athletic,2000,INA,INA,0,0
+AK-0800,Aaron,Koch,A.Koch,OL,,75,300,1978,0,0,0,0,0,0,0,0,0,Oregon State,Pacific 10,2000,INA,INA,0,0
+AK-0900,Adam,Koets,A.Koets,OL,,77,298,1984,5.08,20,32,106,4.47,7.44,0,0,189,Oregon State,Pacific 10,2007,INA,INA,0,0
+AK-0950,Arie,Kouandjio,A.Kouandjio,OL,,77,310,1992,5.48,0,25.5,100,5.38,8.4,0,0,112,Alabama,Southeastern (SEC),2015,WAS,RG,74,2
+AK-1000,Adi,Kunalic,A.Kunalic,K,,72,184,1989,4.75,0,0,0,0,0,0,0,0,Nebraska,Big 12,2011,INA,INA,0,0
+AK-1100,Alex,Kupper,A.Kupper,OL,,75,300,1990,5.36,24,24,100,4.73,7.5,0,0,0,Louisville,Big East,2013,INA,INA,0,0
+AL-0100,Antwan,Lake,A.Lake,DL,,76,308,1979,5.08,27,0,0,0,0,0,0,0,West Virginia,Big East,2002,INA,INA,0,0
+AL-0200,Austen,Lane,A.Lane,DL,,78,274,1987,4.84,20,34.5,125,4.6,7.38,0,0,153,Murray State,Ohio Valley,2010,INA,INA,0,0
+AL-0300,Antonio,Langham,A.Langham,DB,,72,181,1972,0,0,0,0,0,0,0,0,9,Alabama,Southeastern (SEC),1994,INA,INA,0,0
+AL-0325,Anthony,Lanier,A.Lanier,DL,,78,260,1993,4.82,16,28,119,4.46,7.51,0,0,0,Alabama A&M,Southwestern Athletic (SWAC),2016,WAS,LDE,72,3
+AL-0350,Al,Lapuaho,A.Lapuaho,DL,,75,285,1991,5.3,33,24.5,99,4.96,7.77,0,0,0,Utah State,Western Athletic,2013,INA,INA,0,0
+AL-0400,Amp,Lee,A.Lee,RB,,71,200,1971,0,0,0,0,0,0,0,0,45,Florida State,FCS Independents,1992,INA,INA,0,0
+AL-0500,Andy,Lee,A.Lee,K,,73,180,1982,5,0,0,0,0,0,0,0,188,Pittsburgh,Big East,2004,CAR,P,8,1
+AL-0600,Ashley,Lelie,A.Lelie,WR,,75,200,1980,4.49,0,0,0,0,0,0,0,19,Hawaii,Western Athletic,2002,INA,INA,0,0
+AL-0620,Alec,Lemon,A.Lemon,WR,,73,202,1991,4.56,7,36.5,116,4.29,7.04,0,0,0,Syracuse,Big East,2013,INA,INA,0,0
+AL-0650,Anthony,Levine,A.Levine,DB,,71,203,1987,4.49,20,35,114,4.05,6.75,0,0,0,Tennessee State,Ohio Valley,2010,BAL,SS,41,2
+AL-0700,Andy,Levitre,A.Levitre,OL,,74,305,1986,5.33,23,30.5,103,4.52,7.67,0,0,51,Oregon State,Pacific 10,2009,ATL,LG,67,1
+AL-0800,Alex,Lewis,A.Lewis,LB,,72,237,1981,4.78,25,41,125,4.31,6.84,0,0,140,Wisconsin,Big Ten,2004,INA,INA,0,0
+AL-0850,Alex,Lewis,A.Lewis,OL,,78,312,1992,5.22,27,29.5,105,4.72,7.94,34,10,130,Nebraska,Big Ten,2016,BAL,LG,72,1
+AL-0900,Andre,Lott,A.Lott,DB,,70,196,1979,4.48,0,0,0,0,0,0,0,159,Tennessee,Southeastern (SEC),2002,INA,INA,0,0
+AL-0950,Al,Louis-Jean,A.Louis-Jean,DB,,73,187,1993,4.58,8,32.5,125,4.41,7.03,0,0,0,Boston College,Atlantic Coast (ACC),2014,INA,INA,0,0
+AL-1000,Al,Lucas,A.Lucas,DL,,73,294,1978,5,28,36,108,4.56,7.44,0,0,0,Troy,Southland,2000,INA,INA,0,0
+AL-1100,Andrew,Luck,A.Luck,QB,,76,234,1989,4.59,0,36,124,4.28,6.8,32.625,10,1,Stanford,Pacific 12,2012,IND,QB,12,1
+AL-1200,Aaron,Lynch,A.Lynch,LB,DL,77,249,1993,4.69,18,29,117,4.61,7.46,0,0,150,South Florida,American Athletic,2014,SF,SUS,59,1
+AL-1300,Arthur,Lynch,A.Lynch,TE,,77,258,1990,4.75,28,29.5,116,4.35,7.38,32.5,10.125,155,Georgia,Southeastern (SEC),2014,INA,INA,0,0
+AM-0050,Ashaad,Mabry,A.Mabry,DL,,75,315,1992,5.34,26,22.5,99,5.18,8.39,0,0,0,Texas-San Antonio,Conference USA (C-USA),2015,NO,PS,96,5
+AM-0100,Alex,Mack,A.Mack,OL,,76,311,1985,5.17,20,28.5,106,4.75,7.31,0,0,21,California,Pacific 10,2009,ATL,C,51,1
+AM-0200,Anthony,Maddox,A.Maddox,DL,,73,305,1978,5.11,0,0,0,0,0,0,0,118,Delta State,,2004,INA,INA,0,0
+AM-0300,Adrian,Madise,A.Madise,WR,,71,215,1980,4.49,0,32,119,4.26,7.32,0,0,158,Texas Christian,Conference USA (C-USA),2003,INA,INA,0,0
+AM-0400,Anthony,Madison,A.Madison,DB,,69,180,1981,4.45,14,38.5,123,4.41,6.93,0,0,0,Alabama,Southeastern (SEC),2006,INA,INA,0,0
+AM-0500,Alex,Magee,A.Magee,DL,,74,295,1987,5.03,30,29.5,113,4.42,7.15,0,0,67,Purdue,Big Ten,2009,INA,INA,0,0
+AM-0600,Anthony,Malbrough,A.Malbrough,DB,,70,185,1976,4.44,20,35.5,117,4,6.73,0,0,130,Texas Tech,Big 12,2000,INA,INA,0,0
+AM-0700,Alfred,Malone,A.Malone,DL,,77,308,1982,5.16,21,35,110,4.62,7.42,0,0,0,Troy,Sun Belt,2005,INA,INA,0,0
+AM-0750,Ali,Marpet,A.Marpet,OL,,76,307,1993,4.96,30,30.5,108,4.47,7.33,0,0,61,Hobart,,2015,TB,RG,74,1
+AM-0800,Alfonso,Marshall,A.Marshall,DB,,73,186,1981,4.47,0,0,0,0,0,0,0,215,Miami (FL),Big East,2004,INA,INA,0,0
+AM-0900,Aaron,Maybin,A.Maybin,DL,LB,76,250,1988,4.78,22,40,124,4.38,7.52,0,0,11,Penn State,Big Ten,2009,INA,INA,0,0
+AM-1000,Adrian,Mayes,A.Mayes,DB,,73,211,1980,4.5,0,0,0,0,0,0,0,0,LSU,Southeastern (SEC),2004,INA,INA,0,0
+AM-1100,Alonzo,Mayes,A.Mayes,TE,,76,259,1975,0,0,0,0,0,0,0,0,94,Oklahoma State,Big 12,1998,INA,INA,0,0
+AM-1125,Alex,McCalister,A.McCalister,DL,,78,239,1993,4.75,0,34.5,128,4,7.01,36,9.375,240,Florida,Southeastern (SEC),2016,PHI,RES,50,2
+AM-1150,A.J.,McCarron,A.McCarron,QB,,75,220,1990,4.9,0,28,99,4.34,7.18,31.5,10,164,Alabama,Southeastern (SEC),2014,CIN,QB,5,2
+AM-1175,Antoine,McClain,A.McClain,OL,,77,336,1989,5.48,19,27,91,4.82,8.13,0,0,0,Clemson,Atlantic Coast (ACC),2012,INA,INA,0,0
+AM-1200,Albert,McClellan,A.McClellan,LB,DE,73,245,1986,4.75,27,36.5,119,4.21,7.24,0,0,0,Marshall,Conference USA (C-USA),2010,BAL,ILB,50,2
+AM-1300,Andy,McCollum,A.McCollum,OL,,76,300,1970,0,0,0,0,0,0,0,0,0,Toledo,Mid-American (MAC),1995,INA,INA,0,0
+AM-1400,Anthony,McCoy,A.McCoy,TE,,76,259,1987,4.71,19,35.5,113,4.57,6.99,34,10.375,185,USC,Pacific 10,2010,INA,INA,0,0
+AM-1425,Adrian,McDonald,A.McDonald,DB,,71,205,1994,4.65,10,33,112,4.46,7.47,0,0,0,Houston,American Athletic,2016,SD,PS,27,3
+AM-1450,Andrew,McDonald,A.McDonald,OL,,78,310,1988,5.25,23,28.5,105,4.8,7.88,0,0,0,Indiana,Big Ten,2012,INA,INA,0,0
+AM-1500,Anthony,McFarland,A.McFarland,DL,,72,300,1977,4.85,25,28.5,120,4.28,7.98,0,0,15,LSU,Southeastern (SEC),1999,INA,INA,0,0
+AM-1600,Alvin,McKinley,A.McKinley,DL,,75,310,1978,5.09,22,27.5,102,4.61,7.73,0,0,120,Mississippi State,Southeastern (SEC),2000,INA,INA,0,0
+AM-1700,Adam,Meadows,A.Meadows,OL,,77,290,1974,0,0,0,0,0,0,0,0,48,Georgia,Southeastern (SEC),1997,INA,INA,0,0
+AM-1750,Aaron,Mellette,A.Mellette,WR,,74,217,1989,4.45,9,33.5,123,4.41,7.11,33.125,9.625,238,Elon,Southern,2013,INA,INA,0,0
+AM-1800,Ahmad,Merritt,A.Merritt,WR,,70,195,1977,0,0,0,0,0,0,0,0,0,Wisconsin,Big Ten,2001,INA,INA,0,0
+AM-1900,Aaron,Merz,A.Merz,OL,,75,346,1983,5.61,16,26.5,91,4.96,7.65,0,0,248,California,Pacific 10,2006,INA,INA,0,0
+AM-1950,Arthur,Miley,A.Miley,DL,,78,250,1993,4.81,17,34,114,4.75,7.56,0,0,0,Southern,Southwestern Athletic (SWAC),2015,INA,INA,0,0
+AM-2000,Arnold,Miller,A.Miller,DL,,75,239,1975,4.77,12,33.5,120,4.12,7.01,0,0,0,LSU,Southeastern (SEC),1999,INA,INA,0,0
+AM-2100,Anthony,Mitchell,A.Mitchell,DB,,73,198,1974,0,0,0,0,0,0,0,0,0,Tuskegee,,2000,INA,INA,0,0
+AM-2200,Anthony,Mix,A.Mix,WR,,77,235,1983,4.48,0,32,115,4.43,7.18,0,0,0,Auburn,Southeastern (SEC),2007,INA,INA,0,0
+AM-2300,Arthur,Moats,A.Moats,LB,,72,246,1988,4.64,24,36.5,122,4.37,7.22,0,0,178,James Madison,Colonial Athletic (CAA),2010,PIT,LOLB,55,1
+AM-2400,Alex,Molden,A.Molden,DB,,70,190,1973,0,0,0,0,0,0,0,0,11,Oregon,Pacific 10,1996,INA,INA,0,0
+AM-2500,Antwaun,Molden,A.Molden,DB,,73,198,1985,4.39,23,37.5,129,4.14,6.85,0,0,79,Eastern Kentucky,Ohio Valley,2008,INA,INA,0,0
+AM-2600,Anthony,Montgomery,A.Montgomery,DL,,77,301,1984,5.24,20,28,96,4.7,7.79,0,0,153,Minnesota,Big Ten,2006,INA,INA,0,0
+AM-2700,Aaron,Moorehead,A.Moorehead,WR,,75,200,1980,0,0,0,0,0,0,0,0,0,Illinois,Big Ten,2003,INA,INA,0,0
+AM-2800,Aaron,Morgan,A.Morgan,DL,,76,238,1988,4.78,26,40.5,127,4.3,7.14,0,0,0,Louisiana-Monroe,Sun Belt,2010,INA,INA,0,0
+AM-2850,Alfred,Morris,A.Morris,RB,TE,70,219,1988,4.61,16,35.5,117,4.19,7.01,31.375,10.25,173,Florida Atlantic,Sun Belt,2012,DAL,RB,46,2
+AM-2875,Anthony,Morris,A.Morris,OL,,79,303,1992,5.3,25,27.5,110,4.87,7.59,0,0,218,Tennessee State,Ohio Valley,2015,INA,INA,0,0
+AM-2900,Aric,Morris,A.Morris,DB,,70,210,1977,4.56,24,0,0,0,0,0,0,135,Michigan State,Big Ten,2000,INA,INA,0,0
+AM-2950,Antonio,Morrison,A.Morrison,LB,,73,233,1994,5.1,23,30,111,4.64,7.69,30.375,9,125,Florida,Southeastern (SEC),2016,IND,ILB,44,2
+AM-3000,Adrian,Moten,A.Moten,LB,,74,230,1988,4.53,18,32.5,128,4.21,7.05,0,0,0,Maryland,Atlantic Coast (ACC),2011,INA,INA,0,0
+AM-3050,Andy,Mulumba,A.Mulumba,LB,,75,260,1990,4.82,23,36,113,4.58,7.38,0,0,0,Eastern Michigan,Mid-American (MAC),2013,INA,INA,0,0
+AM-3075,Aaron,Murray,A.Murray,QB,,73,207,1990,4.84,0,0,0,0,0,30.625,9.125,163,Georgia,Southeastern (SEC),2014,PHI,PS,0,2
+AM-3100,Adrian,Murrell,A.Murrell,RB,,71,211,1970,0,0,0,0,0,0,0,0,120,West Virginia,Big East,1993,INA,INA,0,0
+AN-0050,Aaron,Neary,A.Neary,OL,,75,287,1992,5.15,26,28.5,104,4.47,7.53,0,0,0,Eastern Washington,Big Sky,2016,PHI,PS,0,4
+AN-0100,Andre,Neblett,A.Neblett,DL,DB,72,295,1988,4.99,32,30,109,4.52,7.57,0,0,0,Temple,Mid-American (MAC),2010,INA,INA,0,0
+AN-0200,A.J.,Nicholson,A.Nicholson,LB,,72,240,1983,4.88,25,0,118,4.46,7.34,0,0,157,Florida State,Atlantic Coast (ACC),2006,INA,INA,0,0
+AN-0300,Adam,Nissley,A.Nissley,TE,,78,267,1988,4.83,40,30,110,4.22,7.21,0,0,0,Central Florida,Conference USA (C-USA),2012,INA,INA,0,0
+AN-0400,Andrew,Norwell,A.Norwell,OL,,77,320,1991,5.31,22,28,105,4.93,8.09,0,0,0,Ohio State,Big Ten,2014,CAR,LG,68,1
+AO-0100,Anthony,Oakley,A.Oakley,OL,,76,295,1981,0,0,0,0,0,0,0,0,0,Western Kentucky,Missouri Valley,2007,INA,INA,0,0
+AO-0200,Antwan,Odom,A.Odom,DL,,76,277,1981,4.71,21,37,114,4.44,7.3,0,0,57,Alabama,Southeastern (SEC),2004,INA,INA,0,0
+AO-0250,Alec,Ogletree,A.Ogletree,LB,,74,242,1991,4.7,20,33.5,122,4.39,7.11,0,0,30,Georgia,Southeastern (SEC),2013,LA,MLB,52,1
+AO-0300,Adewale,Ogunleye,A.Ogunleye,DL,,76,260,1977,0,0,0,0,0,0,0,0,0,Indiana,Big Ten,2001,INA,INA,0,0
+AO-0350,Adewale,Ojomo,A.Ojomo,DL,,76,270,1988,4.91,23,31,112,4.63,7.91,0,0,0,Miami (FL),Atlantic Coast (ACC),2012,INA,INA,0,0
+AO-0370,Alex,Okafor,A.Okafor,LB,DL,76,264,1991,4.91,21,31,112,4.43,7.26,0,0,103,Texas,Big 12,2013,ARI,SAM,57,2
+AO-0400,Amobi,Okoye,A.Okoye,DL,,74,315,1987,5.07,29,30,111,4.44,7.46,0,0,10,Louisville,Big East,2007,INA,INA,0,0
+AO-0500,Andre,O'Neal,A.O'Neal,LB,,73,235,1975,4.72,16,34,114,4.24,7.3,0,0,0,Marshall,Mid-American (MAC),2000,INA,INA,0,0
+AO-0550,Andrew,Opoku,A.Opoku,WR,,76,225,1990,4.67,17,35,114,4.36,7.03,0,0,0,Delaware,Colonial Athletic (CAA),2016,INA,INA,0,0
+AO-0600,Akwasi,Owusu-Ansah,A.Owusu-Ansah,DB,LB,72,207,1988,4.32,21,35.5,120,4.19,6.84,0,0,126,Indiana (PA),,2010,INA,INA,0,0
+AP-0100,Anton,Palepoi,A.Palepoi,DL,,75,283,1978,4.81,24,33.5,114,4.27,7.46,0,0,60,UNLV,Mountain West (MWC),2002,INA,INA,0,0
+AP-0200,Ashlee,Palmer,A.Palmer,LB,,73,236,1986,4.59,0,0,0,0,0,0,0,0,Mississippi,Southeastern (SEC),2009,INA,INA,0,0
+AP-0300,Anthony,Parker,A.Parker,DB,,73,200,1975,4.39,8,31,113,4.27,7.56,0,0,99,Weber State,Big Sky,2000,INA,INA,0,0
+AP-0350,Alex,Parsons,A.Parsons,OL,,76,300,1987,4.93,25,28.5,106,4.56,7.56,0,0,0,USC,Pacific 12,2011,INA,INA,0,0
+AP-0370,Austin,Pasztor,A.Pasztor,OL,,79,308,1990,5.42,24,30,113,4.63,7.54,0,0,0,Virginia,Atlantic Coast (ACC),2012,CLE,RT,67,1
+AP-0385,A.J.,Pataiali'i,A.Pataiali'i,DL,,75,307,1992,5.07,29,31.5,108,5.03,8.3,0,0,0,Utah State,Mountain West (MWC),2014,INA,INA,0,0
+AP-0392,Andrew,Peacock,A.Peacock,WR,,69,195,1991,4.73,17,38,121,4.33,7,0,0,0,Appalachian State,Southern,2014,INA,INA,0,0
+AP-0400,Alvin,Pearman,A.Pearman,RB,,69,208,1982,4.63,24,35.5,120,4.06,6.91,0,0,127,Virginia,Atlantic Coast (ACC),2005,INA,INA,0,0
+AP-0450,Andrus,Peat,A.Peat,OL,,79,313,1993,5.08,0,31,105,4.62,8.01,0,0,13,Stanford,Pacific 12,2015,NO,LG,75,1
+AP-0500,Antwan,Peek,A.Peek,LB,DL,75,237,1979,4.65,21,37,125,4.35,7.07,0,0,67,Cincinnati,Conference USA (C-USA),2003,INA,INA,0,0
+AP-0600,Antonio,Perkins,A.Perkins,DB,,71,188,1982,4.49,10,40,126,4.07,7.17,0,0,103,Oklahoma,Big 12,2005,INA,INA,0,0
+AP-0700,Adrian,Peterson,A.Peterson,RB,,73,217,1985,4.4,0,38.5,127,4.4,7.09,32.25,9.5,7,Oklahoma,Big 12,2007,MIN,RB,28,4
+AP-0800,Adrian,Peterson,A.Peterson,RB,,70,210,1979,4.68,14,34,119,4.6,7.59,0,0,199,Georgia Southern,Southern,2002,INA,INA,0,0
+AP-0900,Austin,Pettis,A.Pettis,WR,,75,209,1988,4.56,14,33.5,120,3.88,6.68,31.75,9.75,78,Boise State,Western Athletic,2011,INA,INA,0,0
+AP-1000,Aaron,Pettrey,A.Pettrey,K,,73,180,1987,4.94,0,0,0,0,0,0,0,0,Ohio State,Big Ten,2010,INA,INA,0,0
+AP-1050,Adrian,Phillips,A.Phillips,DB,,71,201,1992,4.59,13,35.5,115,4.29,7.1,0,0,0,Texas,Big 12,2014,SD,SS,31,2
+AP-1075,Andy,Phillips,A.Phillips,OL,,75,306,1991,5.05,26,30,110,4.75,7.63,0,0,0,Central Michigan,Mid-American (MAC),2015,INA,INA,0,0
+AP-1100,Anwar,Phillips,A.Phillips,DB,,71,185,1982,4.46,10,36,122,4.09,6.8,0,0,0,Penn State,Big Ten,2008,INA,INA,0,0
+AP-1200,Antonio,Pierce,A.Pierce,LB,,73,240,1978,0,0,0,0,0,0,0,0,0,Arizona,Pacific 10,2001,INA,INA,0,0
+AP-1300,Artose,Pinner,A.Pinner,RB,,70,232,1978,4.68,0,0,0,0,0,0,0,99,Kentucky,Southeastern (SEC),2003,INA,INA,0,0
+AP-1400,Andrew,Pinnock,A.Pinnock,RB,,70,260,1980,4.62,22,0,0,0,0,0,0,229,South Carolina,Southeastern (SEC),2003,INA,INA,0,0
+AP-1500,Antonio,Pittman,A.Pittman,RB,,71,207,1985,4.4,16,35.5,123,4.16,6.84,0,0,107,Ohio State,Big Ten,2007,INA,INA,0,0
+AP-1600,Anthony,Pleasant,A.Pleasant,DL,,77,280,1968,0,0,0,0,0,0,0,0,73,Tennessee State,Ohio Valley,1990,INA,INA,0,0
+AP-1700,Ahmed,Plummer,A.Plummer,DB,,72,191,1976,4.43,0,0,0,0,0,0,0,24,Ohio State,Big Ten,2000,INA,INA,0,0
+AP-1800,Adam,Podlesh,A.Podlesh,K,,71,209,1983,4.54,0,0,0,0,0,0,0,101,Maryland,Atlantic Coast (ACC),2007,INA,INA,0,0
+AP-1900,Anthony,Poindexter,A.Poindexter,DB,,72,210,1976,4.6,0,0,0,0,0,0,0,216,Virginia,Atlantic Coast (ACC),2000,INA,INA,0,0
+AP-2000,Alvin,Porter,A.Porter,DB,,71,175,1977,0,0,0,0,0,0,0,0,0,Oklahoma State,Big 12,2001,INA,INA,0,0
+AP-2100,Alfred,Pupunu,A.Pupunu,TE,,74,260,1969,0,0,0,0,0,0,0,0,0,Weber State,Big Sky,1992,INA,INA,0,0
+AQ-0100,Andrew,Quarless,A.Quarless,TE,,76,252,1988,4.68,23,32,119,4.57,7.29,34,10.25,154,Penn State,Big Ten,2010,INA,INA,0,0
+AR-0100,Andre,Ramsey,A.Ramsey,OL,,77,322,1987,5.43,26,25,0,0,0,0,0,0,Ball State,Mid-American (MAC),2009,INA,INA,0,0
+AR-0200,Antwaan,Randle El,A.Randle El,WR,RB,70,192,1979,4.49,0,0,0,0,0,0,0,62,Indiana,Big Ten,2002,INA,INA,0,0
+AR-0300,Anthony,Redmon,A.Redmon,OL,,77,308,1971,0,0,0,0,0,0,0,0,139,Auburn,Southeastern (SEC),1994,INA,INA,0,0
+AR-0325,Adam,Redmond,A.Redmond,OL,,78,290,1993,5.19,24,28,99,4.64,7.51,0,0,0,Harvard,Ivy League,2016,INA,INA,0,0
+AR-0350,Alex,Redmond,A.Redmond,OL,,77,294,1995,5.26,30,28,111,4.9,7.75,0,0,0,UCLA,Pacific 12,2016,CIN,PS,62,3
+AR-0400,Andre,Reed,A.Reed,WR,,74,190,1964,0,0,0,0,0,0,0,0,86,Kutztown,,1985,INA,INA,0,0
+AR-0500,Allen,Reese,A.Reese,DL,,70,294,1980,0,0,0,0,0,0,0,0,0,Kansas State,Big 12,2003,INA,INA,0,0
+AR-0600,Allen,Reisner,A.Reisner,TE,,74,255,1988,4.9,15,30.5,110,4.59,7.2,0,0,0,Iowa,Big Ten,2011,INA,INA,0,0
+AR-0625,Austin,Reiter,A.Reiter,OL,,75,300,1991,5.17,0,34,107,4.53,7.65,0,0,222,South Florida,American Athletic,2015,CLE,C,0,2
+AR-0650,Adam,Replogle,A.Replogle,DL,,75,294,1990,5.09,38,31.5,106,4.71,7.62,0,0,0,Indiana,Big Ten,2013,INA,INA,0,0
+AR-0700,Alan,Reuber,A.Reuber,OL,,78,323,1981,5.49,29,29,100,4.82,7.82,0,0,0,Texas A&M,Big 12,2004,INA,INA,0,0
+AR-0800,Alan,Ricard,A.Ricard,RB,,71,237,1977,0,0,0,0,0,0,0,0,0,Louisiana-Monroe,FBS Independents,2001,INA,INA,0,0
+AR-0850,Antonio,Richardson,A.Richardson,OL,,78,336,1992,5.21,36,31,112,5.06,8.04,0,0,0,Tennessee,Southeastern (SEC),2014,INA,INA,0,0
+AR-0875,Aaron,Ripkowski,A.Ripkowski,RB,,73,238,1992,4.7,0,33,113,4.33,7.59,0,0,206,Oklahoma,Big 12,2015,GB,FB,22,1
+AR-0900,Andre,Rison,A.Rison,WR,,73,188,1967,0,0,0,0,0,0,0,0,22,Michigan State,Big Ten,1989,INA,INA,0,0
+AR-1000,Austin,Robbins,A.Robbins,DL,,78,290,1971,0,0,0,0,0,0,0,0,120,North Carolina,Atlantic Coast (ACC),1994,INA,INA,0,0
+AR-1100,Andre,Roberts,A.Roberts,WR,,71,195,1988,4.4,15,36,120,4.15,6.77,31.5,9.5,88,Citadel,Southern,2010,DET,RWR,19,2
+AR-1115,A'Shawn,Robinson,A.Robinson,DL,,76,307,1995,5.13,22,26,106,4.74,7.8,34.5,10.5,46,Alabama,Southeastern (SEC),2016,DET,LDT,91,2
+AR-1130,Adrian,Robinson,A.Robinson,LB,,73,250,1989,4.71,25,32.5,119,4.33,7.31,0,0,0,Temple,Mid-American (MAC),2012,INA,INA,0,0
+AR-1160,Adrien,Robinson,A.Robinson,TE,,76,264,1988,4.56,15,39.5,135,4.43,7.1,0,0,127,Cincinnati,Big East,2012,INA,INA,0,0
+AR-1200,Aldrick,Robinson,A.Robinson,WR,,70,184,1988,4.35,17,40,126,4.09,6.65,29.5,8.75,178,SMU,Conference USA (C-USA),2011,ATL,RWR,19,2
+AR-1250,Allen,Robinson,A.Robinson,WR,,75,220,1993,4.57,0,42,131,4,6.54,32,9.5,61,Penn State,Big Ten,2014,JAC,LWR,15,1
+AR-1300,Aaron,Rodgers,A.Rodgers,QB,,74,225,1983,4.71,0,34.5,110,4.32,7.12,32.625,9.375,24,California,Pacific 10,2005,GB,QB,12,1
+AR-1400,Antrel,Rolle,A.Rolle,DB,,72,206,1982,4.5,15,37,123,4.01,6.68,0,0,8,Miami (FL),Atlantic Coast (ACC),2005,INA,INA,0,0
+AR-1450,Aldrick,Rosas,A.Rosas,K,,74,195,1994,5.12,0,0,0,0,0,0,0,0,Southern Oregon,,2016,INA,INA,0,0
+AR-1500,Aaron,Ross,A.Ross,DB,,72,197,1982,4.44,17,34,118,4.15,6.72,0,0,20,Texas,Big 12,2007,INA,INA,0,0
+AR-1600,Adrian,Ross,A.Ross,LB,,74,245,1975,0,0,0,0,0,0,0,0,0,Colorado State,Western Athletic,1998,INA,INA,0,0
+AR-1700,Allen,Rossum,A.Rossum,DB,WR,68,178,1975,0,0,0,0,0,0,0,0,85,Notre Dame,FBS Independents,1998,INA,INA,0,0
+AR-1900,Aaron,Rouse,A.Rouse,DB,,76,223,1984,4.58,16,35,121,4.19,6.81,0,0,89,Virginia Tech,Atlantic Coast (ACC),2007,INA,INA,0,0
+AR-2000,Ahtyba,Rubin,A.Rubin,DL,,75,330,1986,5.2,35,28,106,5,8.05,0,0,190,Iowa State,Big 12,2008,SEA,LDT,77,1
+AR-2050,Alonzo,Russell,A.Russell,WR,,76,206,1992,4.44,12,30.5,116,4.33,7.17,0,0,0,Toledo,Mid-American (MAC),2016,CIN,PS,17,4
+AR-2100,Anderson,Russell,A.Russell,DB,,72,208,1987,4.48,18,37,129,4.16,6.78,0,0,0,Ohio State,Big Ten,2010,INA,INA,0,0
+AS-0100,Asante,Samuel,A.Samuel,DB,,71,185,1981,4.49,9,35.5,120,4.14,6.95,0,0,120,Central Florida,Mid-American (MAC),2003,INA,INA,0,0
+AS-0150,Ace,Sanders,A.Sanders,WR,,67,173,1991,4.53,7,32,117,4.37,6.81,29.5,8.875,101,South Carolina,Southeastern (SEC),2013,INA,INA,0,0
+AS-0175,Anthony,Sarao,A.Sarao,LB,,71,233,1993,4.86,22,35.5,114,4.35,7.25,0,0,0,USC,Pacific 12,2016,INA,INA,0,0
+AS-0200,A.J.,Schable,A.Schable,RB,,76,285,1984,4.92,0,0,0,0,0,0,0,0,South Dakota,Great West,2006,INA,INA,0,0
+AS-0250,Adam,Schiltz,A.Schiltz,TE,,75,240,1990,4.72,13,28.5,111,4.73,7.58,0,0,0,Emporia State,,2013,INA,INA,0,0
+AS-0300,Anthony,Schlegel,A.Schlegel,LB,,73,245,1981,4.88,21,32,111,4.39,7.41,0,0,76,Ohio State,Big Ten,2006,INA,INA,0,0
+AS-0400,Aaron,Schobel,A.Schobel,DL,,76,262,1977,4.75,0,38,119,4.03,7.16,0,0,46,Texas Christian,Western Athletic,2001,INA,INA,0,0
+AS-0450,Alvin,Scioneaux,A.Scioneaux,LB,,74,232,1991,4.64,32,39.5,121,0,7.29,0,0,0,Wofford,Southern,2014,INA,INA,0,0
+AS-0500,Arron,Sears,A.Sears,OL,,75,319,1984,5.16,21,30.5,103,4.5,7.63,0,0,35,Tennessee,Southeastern (SEC),2007,INA,INA,0,0
+XX-0000,Sample,Data,E.nd,XX,,0,0,0,0,0,0,0,0,0,0,0,0,x,x,0,x,x,0,0

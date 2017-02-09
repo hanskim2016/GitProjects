@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Quotsy API</title>
+    <script src="https://code.jquery.com/jquery-1.10.2.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+
+        // $('form').submit(function(){
+        //
+        //   var city = $('#city').val();
+        //
+        //   $.get('http://api.openweathermap.org/data/2.5/weather?q='+ city +
+        //   '&units=imperial&APPID=9961f875e58c30974955d956b7cac597', function(data){
+        //       console.log(data);
+        //       $('#temperature').html(data.main.temp);
+        //       $('#country').html(data.sys.country);
+        //       $('#submitted_city').html(data.name);
+        //
+        //   }, 'json');
+        //   return false;
+        // });
+      })
+
+    </script>
+  </head>
+  <body>
+    <h1>Quotsy</h1>
+
+    <form class="location_form" action="#" method="post">
+      <input type="submit" name="submit" value="Get Quotes">
+    </form>
+
+    <h2 id="author">Author: </h2>
+    <h2 id="quote">Quote: </h2>
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,49 @@
+Answers to MySQL Countries questions:
+
+1)SELECT countries.name, language, percentage
+FROM languages 
+INNER JOIN countries ON languages.country_id=countries.id 
+WHERE language = 'slovene'
+
+LIMIT 100
+
+2) SELECT countries.name, COUNT(cities.name)
+FROM cities
+INNER JOIN countries ON cities.country_id=countries.id
+GROUP BY countries.name
+ORDER BY COUNT(cities.name) DESC
+
+3)SELECT cities.name, cities.population, countries.name
+FROM cities
+INNER JOIN countries ON cities.country_id=countries.id
+WHERE cities.country_code = "MEX" AND cities.population > 500000
+ORDER BY cities.population DESC
+
+
+4)SELECT languages.language, languages.percentage, countries.name
+FROM languages
+INNER JOIN countries ON languages.country_id=countries.id
+WHERE languages.percentage > 89.0
+ORDER BY languages.percentage DESC
+
+
+5)SELECT * FROM countries
+WHERE surface_area < 501 AND population > 100000
+ORDER BY surface_area DESC
+
+6) SELECT * 
+FROM countries
+WHERE government_form = 'Constitutional Monarchy'
+AND capital > 200
+AND life_expectancy > 75
+
+7) SELECT countries.name, cities.name, cities.district, cities.population
+FROM cities
+INNER JOIN countries ON cities.country_id=countries.id
+WHERE cities.district = "Buenos Aires"
+AND cities.population > 500000
+
+8) SELECT region, COUNT(name)
+FROM countries
+GROUP BY region
+ORDER BY count(name) DESC

@@ -1,0 +1,9 @@
+SELECT * FROM playbyplay LIMIT 10
+
+SELECT * FROM playbyplay GROUP BY gid LIMIT 100
+
+
+SELECT gid FROM playbyplay GROUP BY gid LIMIT 500
+
+
+SELECT gid, off, def FROM playbyplay GROUP BY gid LIMIT 500

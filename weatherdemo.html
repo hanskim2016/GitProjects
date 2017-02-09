@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="https://code.jquery.com/jquery-1.10.2.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+
+        $('form').submit(function(){
+
+          var city = $('#city').val();
+
+          $.get('http://api.openweathermap.org/data/2.5/weather?q='+ city +
+          '&units=imperial&APPID=9961f875e58c30974955d956b7cac597', function(data){
+              console.log(data);
+              $('#temperature').html(data.main.temp);
+              $('#country').html(data.sys.country);
+              $('#submitted_city').html(data.name);
+
+          }, 'json');
+          return false;
+        });
+      })
+
+    </script>
+    <title>The Weather:</title>
+  </head>
+  <body>
+    <h1>The Weather in: <span id="submitted_city"> </h1>
+    <h3>Country: <span id="country"> </h3>
+    <h3>Temperature: <span id='temperature'></span> degrees fahrenheit</h3>
+
+    <form class="location_form" action="#" method="post">
+      <input type="location_input" id='city' value="city">
+      <input type="submit" name="submit" value="Find Weather Near Me">
+    </form>
+
+  </body>
+</html>

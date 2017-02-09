@@ -1,0 +1,668 @@
+gid,player,team,details,pstat,gstat
+4257,LJ-1150,CAR,Achilles,,Out
+4257,TD-1500,CAR,Chest,,Questionable
+4257,BB-2050,CAR,Coach's Decision,,Inactive
+4257,LE-0050,CAR,Coach's Decision,,Inactive
+4257,JN-1775,CAR,Coach's Decision,,Inactive
+4257,CA-1175,CAR,Coach's Decision,,Inactive
+4257,DB-6375,CAR,Coach's Decision,,Inactive
+4257,LD-0675,DEN,Coach's Decision,,Inactive
+4257,KP-0325,DEN,Coach's Decision,,Inactive
+4257,AD-0680,DEN,Coach's Decision,,Inactive
+4257,JN-1900,DEN,Concussion,,Questionable
+4257,BF-0950,DEN,Elbow,Did Not Participate In Practice,Inactive
+4257,LW-0800,CAR,Hamstring,,Questionable
+4257,DM-0250,CAR,Hamstring,Limited Participation in Practice,Inactive
+4257,JH-3625,DEN,Hamstring,Limited Participation in Practice,Inactive
+4257,DW-4250,DEN,Neck,,Questionable
+4257,SK-0200,DEN,Suspension,,Suspend
+4258,JP-4100,BAL,Ankle,Did Not Participate In Practice,Out
+4258,DP-1300,BAL,Finger,Full Participation in Practice,Questionable
+4258,ED-1000,BAL,Foot,Did Not Participate In Practice,Out
+4258,SW-2300,BAL,Foot,Full Participation in Practice,Questionable
+4258,CA-0900,BUF,Foot,Did Not Participate In Practice,Out
+4258,KS-0450,BUF,Hamstring,Did Not Participate In Practice,Out
+4258,KD-1050,BAL,Knee,Did Not Participate In Practice,Out
+4258,MW-2450,BAL,Knee,Full Participation in Practice,Questionable
+4258,KR-0350,BUF,Knee,,Questionable
+4258,KL-1075,BUF,Pelvis,,Out
+4258,RG-2350,BUF,Ribs,Limited Participation in Practice,Questionable
+4258,JW-4200,BUF,Ribs,Full Participation in Practice,Questionable
+4258,CJ-1850,BUF,Right Shoulder,Did Not Participate In Practice,Questionable
+4258,JU-0300,BAL,Shoulder,Full Participation in Practice,Questionable
+4258,NB-0450,BAL,Suspension,,Suspend
+4258,DW-0675,BAL,Suspension,,Suspend
+4258,MD-0100,BUF,Suspension,,Suspend
+4258,CB-5400,BAL,Undisclosed,,Questionable
+4259,BB-2712,CHI,Ankle,,Questionable
+4259,CW-0850,CHI,Ankle,Limited Participation in Practice,Questionable
+4259,JW-1100,HOU,Back,Full Participation in Practice,Questionable
+4259,AD-1100,HOU,Concussion,Full Participation in Practice,Questionable
+4259,BC-0150,CHI,Groin,Limited Participation in Practice,Questionable
+4259,KW-0887,CHI,Hamstring,Limited Participation in Practice,Questionable
+4259,DB-6000,CHI,Hamstring,Limited Participation in Practice,Questionable
+4259,WF-0300,HOU,Hamstring,Full Participation in Practice,Questionable
+4259,KF-0500,CHI,Knee,Limited Participation in Practice,Questionable
+4259,DT-1250,CHI,Knee,Limited Participation in Practice,Questionable
+4259,DB-4900,HOU,Knee,Did Not Participate In Practice,Out
+4259,KL-1350,CHI,Shoulder,Limited Participation in Practice,Questionable
+4259,JB-2950,CHI,Shoulder,Limited Participation in Practice,Questionable
+4259,EF-0010,CHI,Suspension,,Suspend
+4259,PL-0050,CHI,Wrist,Limited Participation in Practice,Questionable
+4260,DD-0950,CIN,Ankle,Limited Participation in Practice,Doubtful
+4260,TE-0300,CIN,Ankle,Did Not Participate In Practice,Out
+4260,JJ-1620,NYJ,Calf,Did Not Participate In Practice,Doubtful
+4260,DW-3925,NYJ,Concussion,,Questionable
+4260,DR-1950,NYJ,Foot,Did Not Participate In Practice,Out
+4260,KT-0450,NYJ,Groin,,Questionable
+4260,DM-1550,NYJ,Hamstring,,Questionable
+4260,LW-1350,NYJ,Hip,Full Participation in Practice,Questionable
+4260,JW-6545,CIN,Knee,Did Not Participate In Practice,Questionable
+4260,WJ-0150,CIN,Pectoral,,&nbsp;
+4260,BP-0625,NYJ,Right Shoulder,Did Not Participate In Practice,Out
+4260,DH-1400,NYJ,Shoulder,Limited Participation in Practice,Questionable
+4260,BC-0600,NYJ,Shoulder,Limited Participation in Practice,Questionable
+4260,VB-0350,CIN,Suspension,,Suspend
+4260,SR-0670,NYJ,Suspension,,Suspend
+4260,CC-4450,CIN,Undisclosed,Limited Participation in Practice,Questionable
+4261,TB-3950,PHI,Calf,Limited Participation in Practice,Questionable
+4261,DB-5200,CLE,Chest,,Out
+4261,MB-5050,CLE,Groin,Did Not Participate In Practice,Out
+4261,TC-0075,CLE,Hamstring,,Questionable
+4261,RM-5050,CLE,Hamstring,,Questionable
+4261,TH-2850,CLE,Hamstring,Full Participation in Practice,Questionable
+4261,VC-0400,PHI,Knee,Full Participation in Practice,Questionable
+4261,BT-0975,PHI,Knee,Did Not Participate In Practice,Out
+4261,MJ-1200,PHI,Quadriceps,,Probable
+4261,CW-4200,PHI,Shoulder,,Out
+4261,AB-3850,CLE,Suspension,,Suspend
+4261,JG-2450,CLE,Suspension,,Suspend
+4261,MM-2560,PHI,Undisclosed,,Out
+4261,CJ-2162,PHI,Undisclosed,,Out
+4262,CI-0300,JAC,Calf,Limited Participation in Practice,Questionable
+4262,CB-0450,GB,Hamstring,Did Not Participate In Practice,Doubtful
+4262,JE-0350,GB,Hamstring,Did Not Participate In Practice,Questionable
+4262,EW-1550,JAC,Hamstring,,Questionable
+4262,TW-1075,JAC,Hamstring,,Questionable
+4262,JJ-0775,GB,Hand,Full Participation in Practice,Questionable
+4262,JO-0300,JAC,Jaw,Did Not Participate In Practice,Questionable
+4262,JP-2050,GB,Knee,Did Not Participate In Practice,Questionable
+4262,TD-0600,GB,Shoulder,Did Not Participate In Practice,Doubtful
+4262,MP-0875,GB,Suspension,,Suspend
+4262,DG-1600,GB,Suspension,,Suspend
+4262,JB-3650,JAC,Suspension,,Suspend
+4262,AC-2250,JAC,Suspension,,Suspend
+4262,MH-3650,JAC,Suspension,,Suspend
+4263,NE-0225,MIN,Ankle,Did Not Participate In Practice,Out
+4263,TH-1250,MIN,Ankle,,Out
+4263,MG-1800,MIN,Back,,Questionable
+4263,JM-3450,MIN,Foot,Limited Participation in Practice,Questionable
+4263,XR-0100,MIN,Hamstring,Full Participation in Practice,Questionable
+4263,KW-2550,TEN,Hamstring,Did Not Participate In Practice,Out
+4263,IF-0100,MIN,Knee,,Questionable
+4263,RE-0400,MIN,Knee,Limited Participation in Practice,Questionable
+4263,MP-2350,MIN,Knee,Did Not Participate In Practice,Out
+4263,CJ-1400,MIN,Quadriceps,Limited Participation in Practice,Questionable
+4264,MT-0900,NO,Ankle,Limited Participation in Practice,Questionable
+4264,AH-3700,OAK,Ankle,Did Not Participate In Practice,Out
+4264,VB-0300,NO,Calf,,Questionable
+4264,CM-0175,NO,Head,Full Participation in Practice,Questionable
+4264,AJ-1125,NO,Knee,,Questionable
+4264,TA-0850,NO,Knee,Limited Participation in Practice,Questionable
+4264,DE-0600,NO,Quadriceps,Did Not Participate In Practice,Out
+4264,MR-0500,OAK,Suspension,,Suspend
+4264,AS-1500,OAK,Suspension,,Suspend
+4264,TC-1000,NO,Undisclosed,,Out
+4265,JV-0425,SD,Calf,Limited Participation in Practice,Questionable
+4265,JB-4450,SD,Hamstring,,Questionable
+4265,JC-2300,KC,Knee,Limited Participation in Practice,Doubtful
+4265,DS-3350,SD,Suspension,,Suspend
+4266,TW-0650,ATL,Ankle,Limited Participation in Practice,Questionable
+4266,LS-1900,TB,Back,Full Participation in Practice,Questionable
+4266,KB-0925,TB,Concussion,,Questionable
+4266,CM-1050,ATL,Foot,,Out
+4266,DG-1300,ATL,Hamstring,Limited Participation in Practice,Questionable
+4266,DB-2925,TB,Hamstring,Limited Participation in Practice,Out
+4266,RS-1600,TB,Hand,Full Participation in Practice,Questionable
+4266,KN-0125,ATL,Knee,Did Not Participate In Practice,Out
+4266,KI-0150,ATL,Shoulder,Full Participation in Practice,Questionable
+4266,AC-1500,ATL,Shoulder,Full Participation in Practice,Questionable
+4266,KC-0675,TB,Shoulder,,Questionable
+4266,JC-3525,ATL,Suspension,,Suspend
+4266,TS-3050,ATL,Undisclosed,,Out
+4267,NV-0050,SEA,Ankle,Did Not Participate In Practice,Out
+4267,GI-0100,SEA,Ankle,Did Not Participate In Practice,Questionable
+4267,ZV-0100,MIA,Back,,Out
+4267,EM-1200,MIA,Calf,Full Participation in Practice,Questionable
+4267,DP-0350,MIA,Hamstring,Did Not Participate In Practice,Questionable
+4267,IP-0300,MIA,Hamstring,Limited Participation in Practice,Questionable
+4267,MP-2000,MIA,HIP,Did Not Participate In Practice,Out
+4267,TR-0112,SEA,Illness,Did Not Participate In Practice,Questionable
+4267,LT-0950,MIA,Knee,Full Participation in Practice,Questionable
+4267,TF-0250,MIA,Knee,Full Participation in Practice,Questionable
+4267,DJ-2950,MIA,Knee,,Out
+4267,JJ-1620,MIA,Knee,Did Not Participate In Practice,Questionable
+4267,JG-2900,SEA,Knee,Full Participation in Practice,Questionable
+4267,TS-1650,SEA,Knee,Limited Participation in Practice,Questionable
+4267,JS-5050,SEA,Undisclosed,,Out
+4267,EP-0525,SEA,Undisclosed,,Out
+4268,EE-0050,DET,Ankle,Full Participation in Practice,Questionable
+4268,GT-0100,DET,Ankle,Full Participation in Practice,Questionable
+4268,CR-1175,DET,Ankle,Full Participation in Practice,Questionable
+4268,VD-0200,IND,Ankle,Did Not Participate In Practice,Out
+4268,JH-0106,IND,Ankle,Limited Participation in Practice,Questionable
+4268,DB-6100,IND,Ankle,Did Not Participate In Practice,Out
+4268,CG-0750,IND,Foot,Did Not Participate In Practice,Out
+4268,TM-2825,IND,Hamstring,,Questionable
+4268,SM-2950,IND,Hamstring,Limited Participation in Practice,Questionable
+4268,HA-0400,IND,Knee,Limited Participation in Practice,Out
+4268,JM-4150,IND,Knee,Limited Participation in Practice,Questionable
+4268,AL-1100,IND,Shoulder,Limited Participation in Practice,Questionable
+4268,AQ-0100,DET,Suspension,,Suspend
+4268,OC-0150,DET,Suspension,,Suspend
+4268,AJ-1500,IND,Suspension,,Suspend
+4268,GG-0342,DET,Toe,Full Participation in Practice,Questionable
+4268,MM-3175,IND,Undisclosed,,Out
+4268,DS-3175,IND,Undisclosed,,Questionable
+4269,MN-0900,DAL,Achilles,Did Not Participate In Practice,Out
+4269,TR-0800,DAL,Back,Did Not Participate In Practice,Out
+4269,CT-0025,DAL,Back,Did Not Participate In Practice,Out
+4269,DM-1600,DAL,Elbow,,Out
+4269,RL-0350,DAL,Groin,Full Participation in Practice,Questionable
+4269,RT-0850,NYG,Illness,Did Not Participate In Practice,Out
+4269,JS-4025,DAL,Knee,,Out
+4269,DL-0450,DAL,Suspension,,Suspend
+4269,RM-2000,DAL,Suspension,,Suspend
+4269,RG-1825,DAL,Suspension,,Suspend
+4269,JB-7100,NYG,Suspension,,Suspend
+4269,JM-6350,DAL,Undisclosed,,Out
+4270,MM-3500,NE,Elbow,Limited Participation in Practice,Questionable
+4270,JB-3350,ARI,Foot,Limited Participation in Practice,Questionable
+4270,JC-4550,NE,Foot,Limited Participation in Practice,Questionable
+4270,RG-2200,NE,Hamstring,Limited Participation in Practice,Questionable
+4270,NS-0500,NE,Hamstring,Limited Participation in Practice,Questionable
+4270,SM-0850,NE,Hand,Limited Participation in Practice,Questionable
+4270,KM-0425,ARI,Knee,Did Not Participate In Practice,Out
+4270,ST-0250,ARI,Knee,Limited Participation in Practice,Questionable
+4270,LL-1150,ARI,Knee,Limited Participation in Practice,Questionable
+4270,MW-2550,NE,Knee,,Out
+4270,FR-0200,ARI,Neck,Full Participation in Practice,Questionable
+4270,TF-0750,NE,Shoulder,Limited Participation in Practice,Questionable
+4270,SM-1050,NE,Shoulder,Limited Participation in Practice,Questionable
+4270,CH-3350,NE,Shoulder,Full Participation in Practice,Questionable
+4270,RN-1100,NE,Suspension,,Suspend
+4270,TB-2300,NE,Suspension,,Suspend
+4270,KS-1925,NE,Undisclosed,,Questionable
+4270,BW-1850,NE,Undisclosed,,Questionable
+4271,JG-0400,WAS,Achilles,,Out
+4271,JD-2350,WAS,Achilles,Limited Participation in Practice,Questionable
+4271,SG-0725,PIT,Foot,Did Not Participate In Practice,Out
+4271,KR-0460,WAS,Groin,Limited Participation in Practice,Questionable
+4271,MW-1250,PIT,Shoulder,Did Not Participate In Practice,Questionable
+4271,LB-0250,PIT,Suspension,,Suspend
+4271,MB-4550,PIT,Suspension,,Suspend
+4271,SR-0350,WAS,Suspension,,Suspend
+4272,KR-0325,SF,Ankle,Limited Participation in Practice,Questionable
+4272,CD-0925,SF,Hamstring,Did Not Participate In Practice,Questionable
+4272,SB-0070,LA,Head,,Out
+4272,BC-2575,LA,Head,,Questionable
+4272,NS-0718,LA,Knee,Did Not Participate In Practice,Questionable
+4272,NB-0200,SF,Knee,Limited Participation in Practice,Questionable
+4272,QD-0200,SF,Knee,Limited Participation in Practice,Questionable
+4272,GD-0400,SF,Knee,Limited Participation in Practice,Questionable
+4272,IW-0100,SF,Not Injury Related,,Out
+4272,PC-0625,LA,Shoulder,Did Not Participate In Practice,Doubtful
+4272,AA-0562,SF,Shoulder,Limited Participation in Practice,Questionable
+4272,AL-1200,SF,Suspension,,Suspend
+4272,EG-0050,LA,Thigh,Did Not Participate In Practice,Questionable
+4273,SW-0450,BUF,Foot,Limited Practice on Wednesday,Questionable
+4273,KL-1075,BUF,Pelvis,,Out
+4273,CJ-1850,BUF,Shoulder,,Out
+4273,KR-0350,BUF,Knee,,Questionable
+4273,MD-0100,BUF,Suspension,,Suspend
+4273,CA-0900,BUF,Foot,,Out
+4273,JJ-1620,NYJ,Calf,,Out
+4273,DM-1550,NYJ,Hamstring,,Questionable
+4273,BP-0625,NYJ,Shoulder,,Out
+4273,DR-1950,NYJ,Foot,,Out
+4273,DW-3925,NYJ,Concussion,,Questionable
+4274,CB-5400,BAL,Undisclosed,,Questionable
+4274,CM-3250,BAL,Thigh,Limited Practice on Friday,Questionable
+4274,ED-1000,BAL,Foot,Did Not Practice on Friday,Out
+4274,JP-4100,BAL,Ankle,Full Practice on Friday,Questionable
+4274,JU-0300,BAL,Shoulder,Full Practice on Friday,Questionable
+4274,NB-0450,BAL,Suspension,,Suspend
+4274,DW-0675,BAL,Suspension,,Suspend
+4274,BP-0450,BAL,Calf,Full Practice on Friday,Questionable
+4274,ZS-0075,BAL,Ankle,Did Not Practice on Friday,Questionable
+4274,KD-1050,BAL,Knee,Did Not Practice on Friday,Out
+4274,JG-2450,CLE,Suspension,,Suspend
+4274,AB-3850,CLE,Suspension,,Suspend
+4274,DB-5200,CLE,Chest,,Out
+4274,TC-0075,CLE,Hamstring,,Questionable
+4274,RM-5050,CLE,Hamstring,,Questionable
+4275,PS-0300,CIN,Ankle,Full Practice on Friday,Questionable
+4275,TE-0300,CIN,Ankle,Did Not Practice on Friday,Out
+4275,VB-0350,CIN,Suspension,,Suspend
+4275,RN-1250,PIT,Back,Did Not Practice on Friday,Out
+4275,SG-0725,PIT,Foot,Did Not Practice on Friday,Out
+4275,MW-1250,PIT,Shoulder,Full Practice on Friday,Questionable
+4275,MB-4550,PIT,Suspension,,Suspend
+4275,LB-0250,PIT,Suspension,,Suspend
+4275,RS-0962,PIT,Knee,Limited Practice on Friday,Questionable
+4275,CW-0400,PIT,Knee,Did Not Practice on Friday,Out
+4276,MN-0900,DAL,Achilles,Did Not Practice on Friday,Out
+4276,RG-1825,DAL,Suspension,,Suspend
+4276,GS-1400,DAL,Ankle,Full Practice on Friday,Questionable
+4276,CT-0025,DAL,Back,Did Not Practice on Friday,Out
+4276,DL-0450,DAL,Suspension,,Suspend
+4276,DM-1600,DAL,Elbow,,Out
+4276,JC-5560,DAL,Shoulder,Full Practice on Friday,Questionable
+4276,JS-4025,DAL,Knee,,Out
+4276,JM-6350,DAL,Undisclosed,,Out
+4276,TR-0800,DAL,Back,Did Not Practice on Friday,Out
+4276,RL-0350,DAL,Groin,Full Practice on Friday,Questionable
+4276,RM-2000,DAL,Suspension,,Suspend
+4276,OS-0200,DAL,Hamstring,Full Practice on Friday,Questionable
+4276,CB-0200,WAS,Rib,Full Practice on Friday,Questionable
+4276,JG-0400,WAS,Achilles,,Out
+4276,KR-0460,WAS,Groin,Did Not Practice on Friday,Out
+4276,SR-0350,WAS,Suspension,,Suspend
+4276,TW-2800,WAS,Glute,Did Not Practice on Friday,Questionable
+4276,TJ-0200,WAS,Suspension,,
+4276,MS-3450,WAS,Concussion,Limited Practice on Friday,Out
+4276,JD-2350,WAS,Achilles,Full Practice on Friday,Questionable
+4276,SC-1725,WAS,Hip,Full Practice on Friday,Questionable
+4277,DB-4900,HOU,Knee,Did Not Practice on Friday,Out
+4277,BC-3100,HOU,Knee,Did Not Practice on Friday,Out
+4277,DN-0700,HOU,Knee,Did Not Practice on Friday,Questionable
+4277,JA-1050,HOU,Calf,Limited Practice on Friday,Questionable
+4277,CC-4550,HOU,Groin,Did Not Practice on Friday,Questionable
+4277,PE-0185,KC,Concussion,Did Not Practice on Friday,Out
+4277,JC-2300,KC,Knee,Limited Practice on Friday,Doubtful
+4277,LD-1000,KC,Ankle,Did Not Practice on Friday,Out
+4277,SB-0250,KC,Hamstring,Did Not Practice on Friday,Out
+4278,JP-2850,MIA,Ankle,Full Practice on Friday,Questionable
+4278,DP-0350,MIA,Hamstring,Limited Practice on Friday,Questionable
+4278,ZV-0100,MIA,Back,,Out
+4278,XH-0100,MIA,Knee,Limited Practice on Friday,Questionable
+4278,DJ-2950,MIA,Knee,,Out
+4278,JC-0400,MIA,Thigh,Full Practice on Friday,Questionable
+4278,JJ-1620,MIA,Knee,Limited Practice on Friday,Questionable
+4278,AF-0900,MIA,Hamstring,Full Practice on Friday,Questionable
+4278,MW-2300,MIA,Concussion,Full Practice on Friday,Questionable
+4278,MP-2000,MIA,Hip,Did Not Practice on Friday,Out
+4278,SP-0800,MIA,Biceps,Full Practice on Friday,Questionable
+4278,KS-1925,NE,Undisclosed,,Questionable
+4278,SM-0850,NE,Hand,Limited Practice on Friday,Questionable
+4278,TF-0750,NE,Shoulder,Limited Practice on Friday,Questionable
+4278,ER-0475,NE,Ankle,Did Not Practice on Friday,Out
+4278,JC-4550,NE,Foot,Limited Practice on Friday,Questionable
+4278,BW-1850,NE,Undisclosed,,Questionable
+4278,CH-3350,NE,Shoulder,Limited Practice on Friday,Questionable
+4278,DH-2950,NE,Knee,Did Not Practice on Friday,Doubtful
+4278,MW-2550,NE,Knee,,Out
+4278,NS-0500,NE,Hamstring,Limited Practice on Friday,Questionable
+4278,MB-5250,NE,Ankle,Limited Practice on Friday,Questionable
+4278,MC-0400,NE,Knee,Limited Practice on Friday,Questionable
+4278,TB-2300,NE,Suspension,,Suspend
+4278,TG-0050,NE,Foot,,Questionable
+4278,SM-1050,NE,Shoulder,Limited Practice on Friday,Questionable
+4278,RG-2200,NE,Hamstring,Limited Practice on Friday,Questionable
+4278,RN-1100,NE,Suspension,,Suspend
+4279,TA-0850,NO,Quadriceps,Limited Practice on Friday,Questionable
+4279,DE-0600,NO,Quadriceps,Did Not Practice on Friday,Out
+4279,JH-4070,NO,Ankle,Did Not Practice on Friday,Out
+4279,DB-3750,NO,Fibula,Did Not Practice on Friday,Out
+4279,VB-0300,NO,Calf,,Questionable
+4279,ML-2250,NO,Undisclosed,,Out
+4279,NW-0350,NYG,Suspension,,Suspend
+4279,JP-2900,NYG,Shoulder,Did Not Practice on Friday,Questionable
+4279,RT-0850,NYG,Illness,,Out
+4280,JS-6700,CAR,Ankle,Full Practice on Friday,Questionable
+4280,LJ-1150,CAR,Achilles,,Out
+4280,LW-0800,CAR,Hamstring,,Questionable
+4280,TD-1500,CAR,Chest,,Questionable
+4280,DM-0250,CAR,Hamstring,Full Practice on Friday,Questionable
+4280,KR-0325,SF,Ankle,Limited Practice on Friday,Questionable
+4280,MC-2950,SF,Ankle,Limited Practice on Friday,Questionable
+4280,IW-0100,SF,Not Injury Related ,,Out
+4280,CD-0925,SF,Hamstring,Limited Practice on Friday,Questionable
+4280,AT-0750,SF,Ankle,Limited Practice on Friday,Questionable
+4280,AL-1200,SF,Suspension,,Suspend
+4280,AD-0600,SF,Concussion,Did Not Practice on Friday,Out
+4281,CW-1975,DET,Shoulder,Did Not Practice on Friday,Questionable
+4281,AB-0550,DET,Ankle,Did Not Practice on Friday,Questionable
+4281,AQ-0100,DET,Suspension,,Suspend
+4281,DL-1200,DET,Quadriceps,Did Not Practice on Friday,Doubtful
+4281,EA-0550,DET,Shoulder,Full Practice on Friday,Questionable
+4281,JB-8700,DET,Knee,,Out
+4281,KW-2550,TEN,Hamstring,Did Not Practice on Friday,Out
+4281,DM-3600,TEN,Hamstring,Did Not Practice on Friday,Out
+4282,SB-0070,LA,Head,,Out
+4282,MB-3650,LA,Thigh,Full Practice on Friday,Questionable
+4282,LJ-1800,LA,Foot,Full Practice on Friday,Questionable
+4282,EG-0050,LA,Thigh,Did Not Practice on Friday,Out
+4282,PC-0625,LA,Shoulder,Limited Practice on Friday,Doubtful
+4282,BC-2575,LA,Head,,Questionable
+4282,NS-0718,LA,Knee,Did Not Practice on Friday,Out
+4282,TG-1950,LA,Not Injury Related ,,Questionable
+4282,CP-2550,SEA,Wrist,Full Practice on Friday,Questionable
+4282,NV-0050,SEA,Ankle,Did Not Practice on Friday,Out
+4282,JS-5050,SEA,Undisclosed,,Out
+4282,EP-0525,SEA,Undisclosed,,Questionable
+4282,GI-0100,SEA,Ankle,Did Not Practice on Friday,Out
+4282,JW-1400,SEA,Ankle,Did Not Practice on Friday,Questionable
+4283,EM-0400,ARI,Foot,Limited Practice on Friday,Questionable
+4283,FR-0200,ARI,Knee,Did Not Practice on Friday,Out
+4283,KM-0425,ARI,Knee,Did Not Practice on Friday,Out
+4283,ST-0250,ARI,Knee,Limited Practice on Friday,Questionable
+4283,JN-0625,ARI,Shoulder,Limited Practice on Friday,Questionable
+4283,RN-1275,ARI,Ankle,Limited Practice on Friday,Questionable
+4283,AG-0775,TB,Knee,Full Practice on Friday,Questionable
+4283,RA-1500,TB,Ankle,Limited Practice on Friday,Questionable
+4283,LD-0150,TB,Shoulder,Full Practice on Friday,Questionable
+4283,RS-1600,TB,Hand,Full Practice on Friday,Questionable
+4283,DB-2925,TB,Hamstring,Full Practice on Friday,Questionable
+4283,KB-0925,TB,Concussion,,Questionable
+4284,KN-0125,ATL,Knee,Did Not Practice on Friday,Out
+4284,CM-1050,ATL,Foot,,Out
+4284,DC-0325,ATL,Ankle,Did Not Practice on Friday,Out
+4284,JC-3525,ATL,Suspension,,Suspend
+4284,BR-0200,ATL,Shoulder,Limited Practice on Friday,Questionable
+4284,AS-1500,OAK,Suspension,,Suspend
+4284,GJ-0050,OAK,Knee,Full Practice on Friday,Questionable
+4284,RH-3200,OAK,Knee,Full Practice on Friday,Questionable
+4284,TJ-2400,OAK,Concussion,Full Practice on Friday,Questionable
+4284,MM-1960,OAK,Knee,Did Not Practice on Friday,Doubtful
+4284,MR-0500,OAK,Suspension,,Suspend
+4284,MW-0950,OAK,Groin,Did Not Practice on Friday,Doubtful
+4285,SK-0200,DEN,Suspension,,Suspend
+4285,DT-0900,DEN,Hip,Limited Practice on Friday,Questionable
+4285,DW-4250,DEN,Neck,Limited Practice on Friday,Questionable
+4285,BF-0950,DEN,Elbow,Did Not Practice on Friday,Out
+4285,TS-0150,DEN,Elbow,Limited Practice on Friday,Questionable
+4285,CG-0750,IND,Foot,Limited Practice on Friday,Questionable
+4285,ZK-0300,IND,Foot,Full Practice on Friday,Questionable
+4285,HA-0400,IND,Knee,Full Practice on Friday,Out
+4285,TM-2825,IND,Hamstring,,Questionable
+4285,MM-3175,IND,Undisclosed,,Out
+4285,TG-1575,IND,Knee,Did Not Practice on Friday,Out
+4285,RT-1025,IND,Undisclosed,,Questionable
+4285,DS-3175,IND,Undisclosed,,Questionable
+4285,AC-2400,IND,Hamstring,Full Practice on Friday,Questionable
+4285,AJ-1500,IND,Suspension,,Suspend
+4285,DB-6100,IND,Ankle,Full Practice on Friday,Questionable
+4285,KL-0200,IND,Knee,Did Not Practice on Friday,Questionable
+4285,TC-2000,IND,Back,Did Not Practice on Friday,Doubtful
+4285,VD-0200,IND,Ankle,Did Not Practice on Friday,Out
+4285,PR-0400,IND,Concussion,Did Not Practice on Friday,Out
+4285,RM-1400,IND,Foot,Limited Practice on Friday,Questionable
+4286,PA-0300,JAC,Hamstring,Did Not Practice on Friday,Out
+4286,CI-0300,JAC,General Medical Issue ,Did Not Practice on Friday,Out
+4286,AC-2250,JAC,Suspension,,Suspend
+4286,JB-3650,JAC,Suspension,,Suspend
+4286,EW-1550,JAC,Hamstring,,Questionable
+4286,TW-1075,JAC,Hamstring,,Questionable
+4286,DS-3350,SD,Suspension,,Suspend
+4286,RB-0150,SD,Ankle,,Questionable
+4286,SP-1025,SD,Undisclosed,,Questionable
+4286,JB-4450,SD,Hamstring,Did Not Practice on Friday,Out
+4287,JE-0350,GB,Hamstring,,Doubtful
+4287,DG-1600,GB,Suspension,,Suspend
+4287,CB-0450,GB,Hamstring,Did Not Practice on Friday,Doubtful
+4287,TD-0600,GB,Shoulder,Full Practice on Friday,Questionable
+4287,SS-1300,GB,Concussion,Did Not Practice on Friday,Doubtful
+4287,MP-0875,GB,Suspension,,Suspend
+4287,SF-0150,MIN,Knee,Did Not Practice on Friday,Out
+4287,XR-0100,MIN,Knee,Did Not Practice on Friday,Out
+4287,MG-1800,MIN,Back,,Questionable
+4287,MK-0150,MIN,Hip,Limited Practice on Friday,Questionable
+4287,IF-0100,MIN,Knee,,Questionable
+4287,TR-0392,MIN,Hand,,Questionable
+4287,TH-1250,MIN,Ankle,,Out
+4287,MP-2350,MIN,Knee,Did Not Practice on Friday,Out
+4288,BB-2712,CHI,Ankle,,Questionable
+4288,KF-0500,CHI,Knee,Limited Practice on Friday,Questionable
+4288,EF-0010,CHI,Suspension,,Suspend
+4288,CJ-2162,PHI,Undisclosed,,Out
+4288,CW-4200,PHI,Shoulder,,Out
+4289,KS-1925,NE,Undisclosed,,Questionable
+4289,TB-2300,NE,Suspension,,Suspend
+4289,TG-0050,NE,Foot,,Questionable
+4289,BW-1850,NE,Undisclosed,,Questionable
+4289,RN-1100,NE,Suspension,,Suspend
+4289,MW-2550,NE,Knee,,Out
+4290,EM-0400,ARI,Foot,Did Not Practice on Friday,Out
+4290,FR-0200,ARI,Knee,Did Not Practice on Friday,Doubtful
+4290,JB-3350,ARI,Foot,Limited Practice on Friday,Questionable
+4290,KM-0425,ARI,Knee,Did Not Practice on Friday,Doubtful
+4290,RN-1275,ARI,Ankle,Limited Practice on Friday,Questionable
+4290,CC-2100,BUF,Knee,Limited Practice on Friday,Questionable
+4290,CG-1250,BUF,Ankle,Did Not Practice on Friday,Out
+4290,CA-0900,BUF,Foot,Limited Practice on Friday,Out
+4290,GS-0100,BUF,Groin,Limited Practice on Friday,Questionable
+4290,KR-0350,BUF,Knee,,Questionable
+4290,MD-0100,BUF,Suspension,,Suspend
+4290,CJ-1850,BUF,Right Shoulder ,Limited Practice on Friday,Questionable
+4290,KL-1075,BUF,Pelvis,,Out
+4290,RD-0050,BUF,Hamstring,Limited Practice on Friday,Questionable
+4290,SW-0450,BUF,Foot,Did Not Practice on Friday,Questionable
+4291,DW-0675,BAL,Suspension,,Suspend
+4291,NB-0450,BAL,Suspension,,Suspend
+4291,KD-1050,BAL,Knee,Did Not Practice on Friday,Out
+4291,RS-2650,BAL,Foot,Full Practice on Friday,Questionable
+4291,JU-0300,BAL,Shoulder,Full Practice on Friday,Questionable
+4291,ED-1000,BAL,Foot,Did Not Practice on Friday,Questionable
+4291,CB-5400,BAL,Undisclosed,,Questionable
+4291,EW-1550,JAC,Hamstring,,Questionable
+4291,JB-3650,JAC,Suspension,,Suspend
+4291,AC-2250,JAC,Suspension,,Suspend
+4291,BL-1150,JAC,Knee,Did Not Practice on Friday,Questionable
+4291,CI-0300,JAC,General Medical Issue ,Full Practice on Friday,Questionable
+4291,PA-0300,JAC,Hamstring,Did Not Practice on Friday,Questionable
+4291,KB-0750,JAC,Concussion,Did Not Practice on Friday,Out
+4291,JO-0300,JAC,Triceps,Did Not Practice on Friday,Questionable
+4291,TW-1075,JAC,Hamstring,,Questionable
+4291,BK-1050,JAC,Knee,Did Not Practice on Friday,Out
+4291,TG-0950,JAC,Hamstring,Limited Practice on Friday,Questionable
+4292,DB-5200,CLE,Chest,,Out
+4292,CC-3500,CLE,Hand,Did Not Practice on Friday,Out
+4292,AB-3850,CLE,Suspension,,Suspend
+4292,JM-2900,CLE,Shoulder,Did Not Practice on Friday,Out
+4292,JG-2450,CLE,Suspension,,Suspend
+4292,JH-0100,CLE,Groin,Did Not Practice on Friday,Questionable
+4292,CE-0650,CLE,Chest,Did Not Practice on Friday,Out
+4292,IC-0050,CLE,Hamstring,Did Not Practice on Friday,Out
+4292,TC-0075,CLE,Hamstring,,Questionable
+4292,CN-0250,CLE,Hand,Did Not Practice on Friday,Out
+4292,ZV-0100,MIA,Back,,Out
+4292,SP-0800,MIA,Neck,Limited Practice on Friday,Questionable
+4292,DP-0350,MIA,Hamstring,Limited Practice on Friday,Questionable
+4292,XH-0100,MIA,Knee,Limited Practice on Friday,Questionable
+4292,DJ-2950,MIA,Knee,,Out
+4292,AF-0900,MIA,Groin,Did Not Practice on Friday,Out
+4292,KM-2000,MIA,Shoulder,Full Practice on Friday,Questionable
+4292,JJ-1620,MIA,Knee,Limited Practice on Friday,Questionable
+4292,JJ-4300,MIA,Ankle,Did Not Practice on Friday,Questionable
+4292,MP-2000,MIA,Hip,Did Not Practice on Friday,Out
+4293,VB-0350,CIN,Suspension,,Suspend
+4293,TE-0300,CIN,Ankle,Limited Practice on Friday,Doubtful
+4293,DD-0950,CIN,Hamstring,Full Practice on Friday,Questionable
+4293,EW-1500,CIN,Back,Did Not Practice on Friday,Questionable
+4293,DW-1100,DEN,Forearm,Did Not Practice on Friday,Out
+4293,DW-1700,DEN,Elbow,Limited Practice on Friday,Questionable
+4293,DS-4050,DEN,Calf,Did Not Practice on Friday,Out
+4293,CN-0450,DEN,Ankle,Limited Practice on Friday,Questionable
+4293,BF-0950,DEN,Elbow,Limited Practice on Friday,Questionable
+4293,JS-3100,DEN,Hand,Limited Practice on Friday,Questionable
+4293,SK-0200,DEN,Suspension,,Suspend
+4293,VG-0300,DEN,Calf,Did Not Practice on Friday,Out
+4294,WG-0600,DET,Abdomen,Limited Practice on Friday,Questionable
+4294,TW-0160,DET,Calf,Full Practice on Friday,Questionable
+4294,AW-1412,DET,Hamstring,Did Not Practice on Friday,Doubtful
+4294,AB-0550,DET,Ankle,Limited Practice on Friday,Questionable
+4294,JB-8700,DET,Knee,,Out
+4294,KV-0075,DET,Calf,Full Practice on Friday,Questionable
+4294,RR-0250,DET,Ankle,Full Practice on Friday,Questionable
+4294,LW-0350,DET,Illness,Did Not Practice on Friday,Questionable
+4294,DT-0150,DET,Ankle,Did Not Practice on Friday,Questionable
+4294,EA-0550,DET,Ankle,Did Not Practice on Friday,Out
+4294,DL-1200,DET,Quadriceps,Did Not Practice on Friday,Doubtful
+4294,EE-0050,DET,Back,Full Practice on Friday,Questionable
+4294,DJ-2350,GB,Knee,Did Not Practice on Friday,Questionable
+4294,DG-1600,GB,Suspension,,Suspend
+4294,CM-0900,GB,Ankle,Did Not Practice on Friday,Questionable
+4294,LG-0900,GB,Knee,Did Not Practice on Friday,Questionable
+4294,MB-5100,GB,Groin,Did Not Practice on Friday,Questionable
+4294,MP-0875,GB,Suspension,,Suspend
+4294,TL-0300,GB,Hip,Limited Practice on Friday,Questionable
+4295,TD-1500,CAR,Chest,,Questionable
+4295,TT-1850,CAR,Ankle,Full Practice on Friday,Questionable
+4295,JC-1750,CAR,Hamstring,Did Not Practice on Friday,Doubtful
+4295,JS-6700,CAR,Hamstring,Did Not Practice on Friday,Out
+4295,LW-0800,CAR,Hamstring,,Questionable
+4295,KS-0850,CAR,Shoulder,Full Practice on Friday,Questionable
+4295,LJ-1150,CAR,Achilles,,Out
+4295,MG-1800,MIN,Back,,Questionable
+4295,SF-0150,MIN,Knee,Did Not Practice on Friday,Out
+4295,IF-0100,MIN,Knee,,Questionable
+4295,TR-0392,MIN,Hand,,Questionable
+4295,XR-0100,MIN,Knee,Limited Practice on Friday,Questionable
+4295,TH-1250,MIN,Ankle,,Out
+4295,MP-2350,MIN,Knee,Limited Practice on Friday,Questionable
+4296,TJ-2400,OAK,Knee,Full Practice on Friday,Questionable
+4296,DL-0418,OAK,Concussion,Full Practice on Friday,Questionable
+4296,JW-0725,OAK,Hip,Full Practice on Friday,Questionable
+4296,DA-0950,OAK,Concussion,Full Practice on Friday,Questionable
+4296,GJ-0050,OAK,Knee,Full Practice on Friday,Questionable
+4296,AH-3700,OAK,Ankle,Did Not Practice on Friday,Out
+4296,AS-1500,OAK,Suspension,,Suspend
+4296,MM-1960,OAK,Knee,Did Not Practice on Friday,Out
+4296,MR-0500,OAK,Suspension,,Suspend
+4296,MW-0950,OAK,Groin,Full Practice on Friday,Questionable
+4296,RH-3200,OAK,Knee,Full Practice on Friday,Questionable
+4296,DM-3600,TEN,Hamstring,Full Practice on Friday,Questionable
+4296,DW-0500,TEN,Hamstring,Did Not Practice on Friday,Questionable
+4296,KW-2550,TEN,Hamstring,Limited Practice on Friday,Questionable
+4297,NW-0350,NYG,Suspension,,Suspend
+4297,DT-1225,NYG,Foot,Did Not Practice on Friday,Out
+4297,RT-0850,NYG,Illness,,Out
+4297,MN-0400,NYG,Calf,Did Not Practice on Friday,Out
+4297,KR-0460,WAS,Groin,Did Not Practice on Friday,Out
+4297,KL-1000,WAS,Back,Limited Practice on Friday,Questionable
+4297,JG-0400,WAS,Achilles,,Out
+4297,CB-0200,WAS,Rib,Limited Practice on Friday,Questionable
+4297,TJ-0200,WAS,Suspension,,
+4297,TN-0650,WAS,Foot,Did Not Practice on Friday,Questionable
+4297,SR-0350,WAS,Suspension,,Suspend
+4297,MS-3450,WAS,Concussion,Full Practice on Friday,Questionable
+4297,JD-2350,WAS,Achilles,Limited Practice on Friday,Questionable
+4297,SC-1725,WAS,Hip,Limited Practice on Friday,Questionable
+4298,MA-0450,LA,Thigh,Limited Practice on Friday,Questionable
+4298,SB-0070,LA,Head,,Out
+4298,LJ-1800,LA,Toe,Limited Practice on Friday,Questionable
+4298,BC-3070,LA,Knee,Limited Practice on Friday,Questionable
+4298,EG-0050,LA,Thigh,Limited Practice on Friday,Questionable
+4298,PC-0625,LA,Shoulder,Limited Practice on Friday,Doubtful
+4298,BC-2575,LA,Head,,Questionable
+4298,NS-0718,LA,Knee,Limited Practice on Friday,Doubtful
+4298,KB-0925,TB,Concussion,,Questionable
+4298,DS-3037,TB,Hip,Full Practice on Friday,Questionable
+4298,RA-1500,TB,Ankle,Did Not Practice on Friday,Out
+4298,RS-1600,TB,Hand,Full Practice on Friday,Questionable
+4298,LD-0150,TB,Shoulder,Full Practice on Friday,Questionable
+4298,LS-1900,TB,Ankle,Did Not Practice on Friday,Out
+4298,CS-1500,TB,Hamstring,Did Not Practice on Friday,Out
+4298,DM-0450,TB,Hamstring,Did Not Practice on Friday,Out
+4299,CP-2550,SEA,Wrist,Full Practice on Friday,Questionable
+4299,TL-1025,SEA,Knee,Full Practice on Friday,Questionable
+4299,TR-0112,SEA,Shin,Did Not Practice on Friday,Doubtful
+4299,NV-0050,SEA,Ankle,Did Not Practice on Friday,Doubtful
+4299,GI-0100,SEA,Ankle,Limited Practice on Friday,Doubtful
+4299,EP-0525,SEA,Undisclosed,,Questionable
+4299,IW-0100,SF,Undisclosed,,Out
+4299,AD-0600,SF,Concussion,Did Not Practice on Friday,Out
+4299,AL-1200,SF,Suspension,,Suspend
+4299,MC-2950,SF,Ankle,Limited Practice on Friday,Questionable
+4299,JT-0650,SF,Knee,Limited Practice on Friday,Questionable
+4300,PE-0185,KC,Concussion,Did Not Practice on Friday,Out
+4300,JR-1500,KC,Knee,Did Not Practice on Friday,Out
+4300,JC-2300,KC,Knee,Limited Practice on Friday,Doubtful
+4300,PG-0050,KC,Knee,Limited Practice on Friday,Questionable
+4300,SB-0250,KC,Hamstring,Did Not Practice on Friday,Out
+4300,LD-1000,KC,Ankle,Limited Practice on Friday,Questionable
+4300,DH-1400,NYJ,Shoulder,Limited Practice on Friday,Questionable
+4300,BM-0300,NYJ,Knee,Limited Practice on Friday,Questionable
+4300,EH-0600,NYJ,Foot,Did Not Practice on Friday,Questionable
+4300,DM-1550,NYJ,Hamstring,,Questionable
+4300,JC-1950,NYJ,Undisclosed,,Questionable
+4300,DW-3925,NYJ,Concussion,,Questionable
+4300,BP-0625,NYJ,Right Shoulder ,Did Not Practice on Friday,Out
+4301,MK-0730,PHI,Nose,Full Practice on Friday,Questionable
+4301,LM-1100,PHI,Hamstring,Did Not Practice on Friday,Out
+4301,IS-0125,PHI,Pectoral,Did Not Practice on Friday,Out
+4301,CW-4200,PHI,Shoulder,,Out
+4301,ZE-0100,PHI,Rib,Did Not Practice on Friday,Out
+4301,RN-1250,PIT,Back,Limited Practice on Friday,Doubtful
+4301,SG-0725,PIT,Foot,Did Not Practice on Friday,Out
+4301,LB-0250,PIT,Suspension,,Suspend
+4301,MB-4550,PIT,Suspension,,Suspend
+4301,RF-0900,PIT,Elbow,Limited Practice on Friday,Questionable
+4301,CW-0400,PIT,Knee,Did Not Practice on Friday,Out
+4302,TH-1850,IND,Knee,Did Not Practice on Friday,Questionable
+4302,TC-2000,IND,Back,Full Practice on Friday,Questionable
+4302,VD-0200,IND,Ankle,Full Practice on Friday,Questionable
+4302,CG-0750,IND,Foot,Limited Practice on Friday,Questionable
+4302,DG-1450,IND,Back,Did Not Practice on Friday,Out
+4302,TM-2825,IND,Hamstring,,Questionable
+4302,MM-3175,IND,Undisclosed,,Out
+4302,TG-1575,IND,Knee,Full Practice on Friday,Questionable
+4302,RT-1025,IND,Undisclosed,,Questionable
+4302,RK-0350,IND,Shoulder,Full Practice on Friday,Questionable
+4302,PR-0400,IND,Concussion,Did Not Practice on Friday,Out
+4302,DB-6100,IND,Hamstring,Did Not Practice on Friday,Out
+4302,AJ-1500,IND,Suspension,,Suspend
+4302,AL-1100,IND,Right Shoulder ,Full Practice on Friday,Questionable
+4302,DM-2775,IND,Shoulder,Did Not Practice on Friday,Out
+4302,DS-3175,IND,Undisclosed,,Questionable
+4302,AG-0500,SD,Hamstring,Did Not Practice on Friday,Doubtful
+4302,JA-0280,SD,Clavicle,Did Not Practice on Friday,Out
+4302,DS-3350,SD,Suspension,,Suspend
+4302,OF-0100,SD,Hamstring,Limited Practice on Friday,Questionable
+4302,RB-0150,SD,Ankle,,Questionable
+4302,JB-4450,SD,Hamstring,Limited Practice on Friday,Out
+4302,SP-1025,SD,Undisclosed,,Questionable
+4303,KC-0250,CHI,Hamstring,Did Not Practice on Friday,Doubtful
+4303,KF-0500,CHI,Knee,Limited Practice on Friday,Questionable
+4303,JC-6200,CHI,Right Thumb ,Did Not Practice on Friday,Doubtful
+4303,JS-3500,CHI,Shoulder,Full Practice on Friday,Questionable
+4303,EF-0010,CHI,Suspension,,Suspend
+4303,DT-1950,CHI,Thumb,Did Not Practice on Friday,Out
+4303,BM-0360,CHI,Toe,Full Practice on Friday,Questionable
+4303,AJ-0430,CHI,Knee,Limited Practice on Friday,Questionable
+4303,CP-2500,CHI,Calf,Limited Practice on Friday,Questionable
+4303,TP-2000,CHI,Knee,Limited Practice on Friday,Questionable
+4303,WS-0950,CHI,Elbow,Full Practice on Friday,Questionable
+4303,WY-0300,CHI,Knee,Limited Practice on Friday,Questionable
+4303,AA-0543,CHI,Concussion,Limited Practice on Friday,Questionable
+4303,BC-0150,CHI,Concussion,Limited Practice on Friday,Questionable
+4303,EG-0350,CHI,Ankle,Did Not Practice on Friday,Doubtful
+4303,BB-2712,CHI,Ankle,,Questionable
+4303,CT-0025,DAL,Back,Did Not Practice on Friday,Out
+4303,RG-1825,DAL,Suspension,,Suspend
+4303,MN-0900,DAL,Achilles,Limited Practice on Friday,Doubtful
+4303,TR-0800,DAL,Back,Did Not Practice on Friday,Out
+4303,JM-6350,DAL,Undisclosed,,Out
+4303,JS-4025,DAL,Knee,,Out
+4303,JC-5560,DAL,Shoulder,Full Practice on Friday,Questionable
+4303,OS-0200,DAL,Hamstring,Did Not Practice on Friday,Questionable
+4303,RM-2000,DAL,Suspension,,Suspend
+4303,DF-1800,DAL,Quadriceps,Full Practice on Friday,Questionable
+4303,DL-0450,DAL,Suspension,,Suspend
+4303,DM-1600,DAL,Elbow,,Out
+4304,KN-0125,ATL,Knee,Limited Practice on Friday,Questionable
+4304,JC-3525,ATL,Suspension,,Suspend
+4304,DE-0600,NO,Quadriceps,Did Not Practice on Friday,Questionable
+4304,VB-0300,NO,Calf,,Questionable
+4304,ML-2250,NO,Undisclosed,,Out

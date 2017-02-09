@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Example Pokemon API Assignment</title>
+    <style media="screen">
+      #container{
+        margin: 3px;
+      }
+      #pokemon_display{
+        width: 50%;
+        display: block;
+      }
+      #informationDisplay{
+        width: 50%;
+        height: auto;
+        border: 3px solid red;
+
+      }
+
+    </style>
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        console.log("jquery loaded");
+        for (var i = 1; i < 152; i++){
+          var img = '<img id="' +i+'" src='+"http://pokeapi.co/media/img/"+i+".png" + '>';
+          $("#pokemon_display").append(img);
+        }
+
+      $('img').click(function(){
+        var pokemon_id = $(this).attr('id');
+        var pokemon_obj_url = "http://pokeapi.co/api/v1/pokemon/"+pokemon_id;
+
+        $.get(pokemon_obj_url, function(data){
+          console.log(data);
+
+          var str = "<img src=http://pokeapi.co/media/img/" + pokemon_id + ".png" + '>';
+          str += "<h2>"+data.name+"</h2>";
+          str += "<h2>Weight: " + data.weight + "</h2>";
+          str += "<h2>Types: <ul>";
+          for (var i = 0; i < data.types.length; i++){
+            str += "<li>"+data.types[i].name+"</li>";
+          }
+          str += "</ul></h2>"
+          $('#informationDisplay').html(str);
+          console.log(str)
+
+        }, 'json');
+
+        });
+      })
+    </script>
+  </head>
+  <body>
+    <div id='container'>
+      <h1>List of Pokemon</h1>
+      <div id="informationDisplay">
+        <h1>Your selected Pokemon Information</h1>
+      </div>
+      <div id="pokemon_display">
+
+      </div>
+
+
+
+
+    </div>
+  </body>
+</html>
