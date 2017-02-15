@@ -23,13 +23,8 @@
     <p class = 'strong'>Your comments: </p><?= $_POST['comments'] ?>
 
 
-     <form action = "SurveyForm.php">
-       <input type="submit" class="btn btn-primary" value="Go Back">
-     </form>
+    <form action = "SurveyForm.php">
+      <input type="submit" class="btn btn-primary" value="Go Back">
+    </form>
   </body>
 </html>
-
-<?php
-  // foreach($_POST as $value){
-  //   echo $value . "<br>";
-  // }
